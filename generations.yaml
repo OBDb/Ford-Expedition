@@ -1,0 +1,20 @@
+generations:
+  - name: "First Generation (UN93)"
+    start_year: 1997
+    end_year: 2002
+    description: "The original Ford Expedition was introduced as a replacement for the Bronco, offering four doors and greater interior space. Built on the F-150 platform, it featured body-on-frame construction and a traditional SUV design. Available with either a 4.6L or 5.4L Triton V8 engine, it offered substantial towing capacity and passenger comfort. The interior provided seating for up to nine passengers across three rows. The Expedition was positioned between the smaller Explorer and larger Excursion in Ford's SUV lineup, competing directly with the Chevrolet Tahoe/GMC Yukon. A longer-wheelbase Expedition EL (later renamed Max) was not yet available in this generation."
+
+  - name: "Second Generation (U222)"
+    start_year: 2003
+    end_year: 2006
+    description: "The second-generation Expedition maintained its F-150 underpinnings but featured more refined styling and improved interior quality. Power came primarily from the 5.4L Triton V8, now with improved output and efficiency. Notable innovations included an independent rear suspension—a first for a full-size SUV—which improved both ride quality and third-row space. The interior was significantly upgraded with better materials and design. Safety features expanded to include stability control and side curtain airbags. This generation established the Expedition as a more refined family vehicle while maintaining its utility and capability."
+
+  - name: "Third Generation (U324)"
+    start_year: 2007
+    end_year: 2017
+    description: "The third-generation Expedition featured updated styling and improved capabilities. The extended-length Expedition EL (later renamed Max) was introduced, adding 15 inches to the overall length for increased cargo capacity. Powered exclusively by the 5.4L Triton V8 initially, later models received the more efficient 3.5L EcoBoost V6. The interior was further refined with better materials and technology features including SYNC infotainment. A significant refresh in 2015 updated the styling, interior, and replaced the V8 entirely with the EcoBoost V6. This generation maintained the Expedition's position in the full-size SUV market despite declining interest in the segment during the economic downturn and high fuel prices."
+
+  - name: "Fourth Generation (U553)"
+    start_year: 2018
+    end_year: null
+    description: "The current Expedition features a complete redesign with an aluminum-alloy body similar to the F-150, resulting in significant weight reduction. Available in standard and long-wheelbase Max configurations, it offers seating for up to eight passengers with improved interior space. Powered exclusively by a 3.5L EcoBoost V6 producing up to 400 HP in higher trims, paired with a 10-speed automatic transmission. The interior represents a major advancement with higher quality materials and technology, including available SYNC 4 with a 15.5-inch vertical touchscreen in updated models. Features include active noise cancellation, panoramic sunroof, and advanced driver assistance technologies. A significant refresh for 2022 updated the exterior styling, interior technology, and added the off-road oriented Timberline and street-performance Stealth Performance packages. The fourth-generation Expedition combines the capability expected of a full-size SUV with modern technology, efficiency, and refinement, maintaining its position as Ford's flagship family SUV."
