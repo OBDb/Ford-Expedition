@@ -1,0 +1,29 @@
+command_id: 7E0.22035F
+test_cases:
+- response: 7E80562035F00D0
+  expected_values:
+    FORD_RO2_V: 0.20312
+- response: 7E80562035F00D5
+  expected_values:
+    FORD_RO2_V: 0.20801
+- response: 7E80562035F00DC
+  expected_values:
+    FORD_RO2_V: 0.21484
+- response: 7E80562035F0100
+  expected_values:
+    FORD_RO2_V: 0.25
+- response: 7E80562035F010F
+  expected_values:
+    FORD_RO2_V: 0.26465
+- response: 7E80562035F012D
+  expected_values:
+    FORD_RO2_V: 0.29395
+- response: 7E80562035F013D
+  expected_values:
+    FORD_RO2_V: 0.30957
+- response: 7E80562035F02CE
+  expected_values:
+    FORD_RO2_V: 0.70117
+- response: 7E80562035F0357
+  expected_values:
+    FORD_RO2_V: 0.83496
