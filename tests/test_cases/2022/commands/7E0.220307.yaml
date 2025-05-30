@@ -1,0 +1,29 @@
+command_id: 7E0.220307
+test_cases:
+- response: 7E805620307165E
+  expected_values:
+    FORD_LPFP_DUTY: 17.47437
+- response: '7E8056203071948'
+  expected_values:
+    FORD_LPFP_DUTY: 19.75098
+- response: '7E8056203071969'
+  expected_values:
+    FORD_LPFP_DUTY: 19.85168
+- response: 7E805620307197B
+  expected_values:
+    FORD_LPFP_DUTY: 19.90662
+- response: 7E805620307197C
+  expected_values:
+    FORD_LPFP_DUTY: 19.90967
+- response: 7E805620307197D
+  expected_values:
+    FORD_LPFP_DUTY: 19.91272
+- response: 7E805620307197F
+  expected_values:
+    FORD_LPFP_DUTY: 19.91882
+- response: 7E805620307198A
+  expected_values:
+    FORD_LPFP_DUTY: 19.95239
+- response: 7E8056203071AD3
+  expected_values:
+    FORD_LPFP_DUTY: 20.95642
