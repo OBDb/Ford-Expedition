@@ -1,8 +1,32 @@
 command_id: 7E0.22032B
 test_cases:
-- response: 7E80462032B00
-  expected_values:
+- expected_values:
     FORD_ACC_POS: 0
-- response: 7E80462032B14
-  expected_values:
+  response: 7E80462032B00
+- expected_values:
+    FORD_ACC_POS: 4
+  response: 7E80462032B08
+- expected_values:
+    FORD_ACC_POS: 4.5
+  response: 7E80462032B09
+- expected_values:
     FORD_ACC_POS: 10
+  response: 7E80462032B14
+- expected_values:
+    FORD_ACC_POS: 11.5
+  response: 7E80462032B17
+- expected_values:
+    FORD_ACC_POS: 12
+  response: 7E80462032B18
+- expected_values:
+    FORD_ACC_POS: 14.5
+  response: 7E80462032B1D
+- expected_values:
+    FORD_ACC_POS: 17
+  response: 7E80462032B22
+- expected_values:
+    FORD_ACC_POS: 18
+  response: 7E80462032B24
+- expected_values:
+    FORD_ACC_POS: 19.5
+  response: 7E80462032B27
