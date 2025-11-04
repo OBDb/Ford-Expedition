@@ -4,11 +4,8 @@ test_cases:
     FORD_TOT: 38.5625
   response: 7E805621E1C0269
 - expected_values:
-    FORD_TOT: 64.4375
-  response: 7E805621E1C0407
-- expected_values:
     FORD_TOT: 95.8125
   response: 7E805621E1C05FD
 - expected_values:
-    FORD_TOT: 96.5625
-  response: 7E805621E1C0609
+    FORD_TOT: 96.0625
+  response: 7E805621E1C0601
