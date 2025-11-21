@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22054D
+test_cases:
+- expected_values:
+    FORD_LPFP_SENS_V: 2.05078
+  response: 7E80562054D0834
+- expected_values:
+    FORD_LPFP_SENS_V: 2.08496
+  response: 7E80562054D0857
+- expected_values:
+    FORD_LPFP_SENS_V: 2.11914
+  response: 7E80562054D087A
+- expected_values:
+    FORD_LPFP_SENS_V: 2.18262
+  response: 7E80562054D08BB
+- expected_values:
+    FORD_LPFP_SENS_V: 2.19238
+  response: 7E80562054D08C5
+- expected_values:
+    FORD_LPFP_SENS_V: 2.28516
+  response: 7E80562054D0924
+- expected_values:
+    FORD_LPFP_SENS_V: 2.30469
+  response: 7E80562054D0938
+- expected_values:
+    FORD_LPFP_SENS_V: 2.30957
+  response: 7E80562054D093D
+- expected_values:
+    FORD_LPFP_SENS_V: 2.35352
+  response: 7E80562054D096A
+- expected_values:
+    FORD_LPFP_SENS_V: 2.40723
+  response: 7E80562054D09A1

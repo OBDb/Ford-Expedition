@@ -1,0 +1,32 @@
+command_id: 760.768.222B0C
+test_cases:
+- expected_values:
+    FORD_LAT_ANG: 0
+  response: 76805622B0C0000
+- expected_values:
+    FORD_LAT_ANG: 0
+  response: 76805622B0C0001
+- expected_values:
+    FORD_LAT_ANG: 0
+  response: 76805622B0C0003
+- expected_values:
+    FORD_LAT_ANG: 0
+  response: 76805622B0C0005
+- expected_values:
+    FORD_LAT_ANG: 0
+  response: 76805622B0C0006
+- expected_values:
+    FORD_LAT_ANG: 0
+  response: 76805622B0C000D
+- expected_values:
+    FORD_LAT_ANG: -1
+  response: 76805622B0CFFD5
+- expected_values:
+    FORD_LAT_ANG: -1
+  response: 76805622B0CFFFD
+- expected_values:
+    FORD_LAT_ANG: -1
+  response: 76805622B0CFFFE
+- expected_values:
+    FORD_LAT_ANG: -1
+  response: 76805622B0CFFFF

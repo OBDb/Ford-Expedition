@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22F40F
+test_cases:
+- expected_values:
+    FORD_IAT_ALT2: 35
+  response: 7E80462F40F4B
+- expected_values:
+    FORD_IAT_ALT2: 36
+  response: 7E80462F40F4C
+- expected_values:
+    FORD_IAT_ALT2: 38
+  response: 7E80462F40F4E
+- expected_values:
+    FORD_IAT_ALT2: 40
+  response: 7E80462F40F50
+- expected_values:
+    FORD_IAT_ALT2: 42
+  response: 7E80462F40F52
+- expected_values:
+    FORD_IAT_ALT2: 44
+  response: 7E80462F40F54
+- expected_values:
+    FORD_IAT_ALT2: 49
+  response: 7E80462F40F59
+- expected_values:
+    FORD_IAT_ALT2: 52
+  response: 7E80462F40F5C
