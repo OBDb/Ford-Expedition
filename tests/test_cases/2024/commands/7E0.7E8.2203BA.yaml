@@ -4,14 +4,8 @@ test_cases:
     FORD_AAT_V: 2.11632
   response: 7E8056203BA01B1
 - expected_values:
-    FORD_AAT_V: 2.19453
-  response: 7E8056203BA01C1
-- expected_values:
-    FORD_AAT_V: 2.23851
-  response: 7E8056203BA01CA
-- expected_values:
-    FORD_AAT_V: 2.24829
-  response: 7E8056203BA01CC
-- expected_values:
     FORD_AAT_V: 2.27761
   response: 7E8056203BA01D2
+- expected_values:
+    FORD_AAT_V: 2.77126
+  response: 7E8056203BA0237
