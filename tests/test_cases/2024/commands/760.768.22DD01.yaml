@@ -6,3 +6,21 @@ test_cases:
 - expected_values:
     FORD_ODO_BCM: 21798
   response: 7680662DD01005526
+- expected_values:
+    FORD_ODO_BCM: 21803
+  response: 7680662DD0100552B
+- expected_values:
+    FORD_ODO_BCM: 21804
+  response: 7680662DD0100552C
+- expected_values:
+    FORD_ODO_BCM: 21806
+  response: 7680662DD0100552E
+- expected_values:
+    FORD_ODO_BCM: 21808
+  response: 7680662DD01005530
+- expected_values:
+    FORD_ODO_BCM: 21809
+  response: 7680662DD01005531
+- expected_values:
+    FORD_ODO_BCM: 21810
+  response: 7680662DD01005532
