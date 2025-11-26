@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.220461
 test_cases:
 - expected_values:
-    FORD_CAT: -6.40625
-  response: '7E8056204610866'
+    FORD_CAT: -12.53125
+  response: 7E80562046106DE
+- expected_values:
+    FORD_CAT: -11.90625
+  response: '7E8056204610706'
 - expected_values:
     FORD_CAT: -4.03125
   response: 7E80562046108FE
-- expected_values:
-    FORD_CAT: -3.90625
-  response: '7E8056204610906'
 - expected_values:
     FORD_CAT: 0.09375
   response: 7E8056204610A06
