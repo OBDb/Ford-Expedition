@@ -5,38 +5,6 @@ test_cases:
     FORD_[ECU] ACCELERATOR PEDAL POSITION: 0
   response: 7E80462032B00
 - expected_values:
-    FORD_ACC_POS: 2.5
-    FORD_[ECU] ACCELERATOR PEDAL POSITION: 2.5
-  response: 7E80462032B05
-- expected_values:
-    FORD_ACC_POS: 6
-    FORD_[ECU] ACCELERATOR PEDAL POSITION: 6
-  response: 7E80462032B0C
-- expected_values:
-    FORD_ACC_POS: 8
-    FORD_[ECU] ACCELERATOR PEDAL POSITION: 8
-  response: 7E80462032B10
-- expected_values:
-    FORD_ACC_POS: 8.5
-    FORD_[ECU] ACCELERATOR PEDAL POSITION: 8.5
-  response: 7E80462032B11
-- expected_values:
-    FORD_ACC_POS: 11
-    FORD_[ECU] ACCELERATOR PEDAL POSITION: 11
-  response: 7E80462032B16
-- expected_values:
-    FORD_ACC_POS: 12
-    FORD_[ECU] ACCELERATOR PEDAL POSITION: 12
-  response: 7E80462032B18
-- expected_values:
-    FORD_ACC_POS: 16
-    FORD_[ECU] ACCELERATOR PEDAL POSITION: 16
-  response: 7E80462032B20
-- expected_values:
-    FORD_ACC_POS: 16.5
-    FORD_[ECU] ACCELERATOR PEDAL POSITION: 16.5
-  response: 7E80462032B21
-- expected_values:
     FORD_ACC_POS: 18
     FORD_[ECU] ACCELERATOR PEDAL POSITION: 18
   response: 7E80462032B24
