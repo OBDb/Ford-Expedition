@@ -1,0 +1,18 @@
+command_id: 760.768.223201
+test_cases:
+- expected_values:
+    FORD_STEER_ANG: 22.5
+    FORD_STEER_ANGLE: -790
+  response: 7680562320181C2
+- expected_values:
+    FORD_STEER_ANG: 45
+    FORD_STEER_ANGLE: -781.25
+  response: '768056232018384'
+- expected_values:
+    FORD_STEER_ANG: 49.5
+    FORD_STEER_ANGLE: -781.25
+  response: 7680562320183DE
+- expected_values:
+    FORD_STEER_ANG: 58.5
+    FORD_STEER_ANGLE: -775
+  response: '768056232018492'
