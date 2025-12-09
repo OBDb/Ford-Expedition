@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     FORD_TOT: 0.4375
   response: 7E805621E1C0007
+- expected_values:
+    FORD_TOT: 47.5625
+  response: 7E805621E1C02F9
+- expected_values:
+    FORD_TOT: 64.5625
+  response: 7E805621E1C0409
