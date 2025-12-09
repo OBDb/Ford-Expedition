@@ -3,3 +3,27 @@ test_cases:
 - expected_values:
     FORD_IGN_CORR_CYL1: 0
   response: 7E8056203EC0000
+- expected_values:
+    FORD_IGN_CORR_CYL1: 0.375
+  response: 7E8056203EC00C0
+- expected_values:
+    FORD_IGN_CORR_CYL1: 0.38867
+  response: 7E8056203EC00C7
+- expected_values:
+    FORD_IGN_CORR_CYL1: 0.48438
+  response: 7E8056203EC00F8
+- expected_values:
+    FORD_IGN_CORR_CYL1: 0.62109
+  response: 7E8056203EC013E
+- expected_values:
+    FORD_IGN_CORR_CYL1: 2.08594
+  response: 7E8056203EC042C
+- expected_values:
+    FORD_IGN_CORR_CYL1: 2.70508
+  response: 7E8056203EC0569
+- expected_values:
+    FORD_IGN_CORR_CYL1: 2.87695
+  response: 7E8056203EC05C1
+- expected_values:
+    FORD_IGN_CORR_CYL1: 3.0918
+  response: 7E8056203EC062F
