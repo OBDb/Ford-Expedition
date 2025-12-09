@@ -4,8 +4,8 @@ test_cases:
     FORD_ODO: 21797
   response: 7E80662DD01005525
 - expected_values:
-    FORD_ODO: 23208
-  response: 7E80662DD01005AA8
+    FORD_ODO: 23230
+  response: 7E80662DD01005ABE
 - expected_values:
     FORD_ODO: 43907
   response: 7E80662DD0100AB83
