@@ -4,23 +4,11 @@ test_cases:
     FORD_AXLE_GEAR_RATIO_MEAS: 0.63501
   response: 7E805621E160A29
 - expected_values:
-    FORD_AXLE_GEAR_RATIO_MEAS: 0.6355
-  response: 7E805621E160A2B
+    FORD_AXLE_GEAR_RATIO_MEAS: 0.99927
+  response: 7E805621E160FFD
 - expected_values:
-    FORD_AXLE_GEAR_RATIO_MEAS: 0.63574
-  response: 7E805621E160A2C
-- expected_values:
-    FORD_AXLE_GEAR_RATIO_MEAS: 0.63696
-  response: 7E805621E160A31
-- expected_values:
-    FORD_AXLE_GEAR_RATIO_MEAS: 0.68921
-  response: 7E805621E160B07
-- expected_values:
-    FORD_AXLE_GEAR_RATIO_MEAS: 2.14331
-  response: 7E805621E16224B
-- expected_values:
-    FORD_AXLE_GEAR_RATIO_MEAS: 4.69629
-  response: 7E805621E164B24
+    FORD_AXLE_GEAR_RATIO_MEAS: 1
+  response: 7E805621E161000
 - expected_values:
     FORD_AXLE_GEAR_RATIO_MEAS: 10
   response: 7E805621E16A000
