@@ -1,23 +1,8 @@
 command_id: 7E0.7E8.22116B
 test_cases:
 - expected_values:
-    FORD_IGN_TIM_CYL1: 15.5
-  response: 7E80562116B003E
-- expected_values:
-    FORD_IGN_TIM_CYL1: 18.5
-  response: 7E80562116B004A
-- expected_values:
-    FORD_IGN_TIM_CYL1: 24.5
-  response: 7E80562116B0062
-- expected_values:
-    FORD_IGN_TIM_CYL1: 26.25
-  response: 7E80562116B0069
-- expected_values:
-    FORD_IGN_TIM_CYL1: 30.75
-  response: 7E80562116B007B
-- expected_values:
-    FORD_IGN_TIM_CYL1: 40
-  response: 7E80562116B00A0
+    FORD_IGN_TIM_CYL1: 12.5
+  response: 7E80562116B0032
 - expected_values:
     FORD_IGN_TIM_CYL1: 49.25
   response: 7E80562116B00C5
