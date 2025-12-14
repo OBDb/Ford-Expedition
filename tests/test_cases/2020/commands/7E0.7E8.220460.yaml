@@ -4,11 +4,11 @@ test_cases:
     FORD_CAT_SENS_V: 2.11426
   response: '7E8056204600875'
 - expected_values:
+    FORD_CAT_SENS_V: 2.5
+  response: 7E8056204600A00
+- expected_values:
     FORD_CAT_SENS_V: 2.74902
   response: 7E8056204600AFF
-- expected_values:
-    FORD_CAT_SENS_V: 3.50098
-  response: 7E8056204600E01
 - expected_values:
     FORD_CAT_SENS_V: 3.75488
   response: 7E8056204600F05
