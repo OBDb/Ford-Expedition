@@ -4,20 +4,8 @@ test_cases:
     FORD_IAT_SENS_V: 3.68035
   response: 7E80562127902F1
 - expected_values:
-    FORD_IAT_SENS_V: 3.71457
-  response: 7E80562127902F8
+    FORD_IAT_SENS_V: 3.739
+  response: 7E80562127902FD
 - expected_values:
-    FORD_IAT_SENS_V: 3.81232
-  response: 7E805621279030C
-- expected_values:
-    FORD_IAT_SENS_V: 3.85142
-  response: '7E8056212790314'
-- expected_values:
-    FORD_IAT_SENS_V: 3.88563
-  response: 7E805621279031B
-- expected_values:
-    FORD_IAT_SENS_V: 3.89541
-  response: 7E805621279031D
-- expected_values:
-    FORD_IAT_SENS_V: 3.92473
-  response: '7E8056212790323'
+    FORD_IAT_SENS_V: 3.75855
+  response: '7E8056212790301'
