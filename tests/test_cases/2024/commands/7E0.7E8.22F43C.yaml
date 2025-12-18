@@ -4,11 +4,11 @@ test_cases:
     FORD_CAT_TEMP: 143.8
   response: 7E80562F43C072E
 - expected_values:
+    FORD_CAT_TEMP: 446.3
+  response: 7E80562F43C12FF
+- expected_values:
     FORD_CAT_TEMP: 446.4
   response: 7E80562F43C1300
 - expected_values:
-    FORD_CAT_TEMP: 523.1
-  response: 7E80562F43C15FF
-- expected_values:
-    FORD_CAT_TEMP: 848.3
-  response: 7E80562F43C22B3
+    FORD_CAT_TEMP: 844.3
+  response: 7E80562F43C228B
