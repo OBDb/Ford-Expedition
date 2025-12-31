@@ -1,32 +1,8 @@
 command_id: 7E0.7E8.22054B
 test_cases:
 - expected_values:
-    FORD_PCM_ENG_OIL_LIFE_REM: 77
-  response: 7E80462054B4D
-- expected_values:
-    FORD_PCM_ENG_OIL_LIFE_REM: 78
-  response: 7E80462054B4E
-- expected_values:
-    FORD_PCM_ENG_OIL_LIFE_REM: 79
-  response: 7E80462054B4F
-- expected_values:
-    FORD_PCM_ENG_OIL_LIFE_REM: 80
-  response: 7E80462054B50
-- expected_values:
-    FORD_PCM_ENG_OIL_LIFE_REM: 81
-  response: 7E80462054B51
-- expected_values:
-    FORD_PCM_ENG_OIL_LIFE_REM: 82
-  response: 7E80462054B52
-- expected_values:
-    FORD_PCM_ENG_OIL_LIFE_REM: 83
-  response: 7E80462054B53
-- expected_values:
-    FORD_PCM_ENG_OIL_LIFE_REM: 84
-  response: 7E80462054B54
-- expected_values:
-    FORD_PCM_ENG_OIL_LIFE_REM: 89
-  response: 7E80462054B59
+    FORD_PCM_ENG_OIL_LIFE_REM: 74
+  response: 7E80462054B4A
 - expected_values:
     FORD_PCM_ENG_OIL_LIFE_REM: 92
   response: 7E80462054B5C
