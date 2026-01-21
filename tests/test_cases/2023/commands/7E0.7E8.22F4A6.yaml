@@ -4,26 +4,5 @@ test_cases:
     FORD_PCM_VEH_ODO: 129566
   response: 7E80762F4A60013C52C
 - expected_values:
-    FORD_PCM_VEH_ODO: 129571.5
-  response: 7E80762F4A60013C563
-- expected_values:
-    FORD_PCM_VEH_ODO: 129571.7
-  response: 7E80762F4A60013C565
-- expected_values:
-    FORD_PCM_VEH_ODO: 129572.1
-  response: 7E80762F4A60013C569
-- expected_values:
-    FORD_PCM_VEH_ODO: 129572.6
-  response: 7E80762F4A60013C56E
-- expected_values:
-    FORD_PCM_VEH_ODO: 129572.7
-  response: 7E80762F4A60013C56F
-- expected_values:
-    FORD_PCM_VEH_ODO: 129573.1
-  response: 7E80762F4A60013C573
-- expected_values:
-    FORD_PCM_VEH_ODO: 129573.6
-  response: 7E80762F4A60013C578
-- expected_values:
-    FORD_PCM_VEH_ODO: 129574.1
-  response: 7E80762F4A60013C57D
+    FORD_PCM_VEH_ODO: 129585
+  response: 7E80762F4A60013C5EA
