@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     FORD_FL_VSS: 0
   response: 76804622B0700
+- expected_values:
+    FORD_FL_VSS: 36
+  response: 76804622B0724
+- expected_values:
+    FORD_FL_VSS: 52
+  response: 76804622B0734
+- expected_values:
+    FORD_FL_VSS: 55
+  response: 76804622B0737
+- expected_values:
+    FORD_FL_VSS: 57
+  response: 76804622B0739
+- expected_values:
+    FORD_FL_VSS: 60
+  response: 76804622B073C
