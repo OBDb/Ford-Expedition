@@ -10,5 +10,5 @@ test_cases:
     FORD_PCM_A_C_REFRIG_P: 773
   response: '7E8056206040305'
 - expected_values:
-    FORD_PCM_A_C_REFRIG_P: 1326
-  response: 7E805620604052E
+    FORD_PCM_A_C_REFRIG_P: 1621
+  response: '7E8056206040655'
