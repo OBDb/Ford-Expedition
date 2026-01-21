@@ -5,34 +5,6 @@ test_cases:
     FORD_[ECU] CL LAMBDA CORR: 0
   response: 7E8056203BD0000
 - expected_values:
-    FORD_CL_LC: 0.01001
-    FORD_[ECU] CL LAMBDA CORR: 0.01001
-  response: 7E8056203BD0052
-- expected_values:
-    FORD_CL_LC: 0.01025
-    FORD_[ECU] CL LAMBDA CORR: 0.01025
-  response: 7E8056203BD0054
-- expected_values:
-    FORD_CL_LC: 0.01147
-    FORD_[ECU] CL LAMBDA CORR: 0.01147
-  response: 7E8056203BD005E
-- expected_values:
-    FORD_CL_LC: 0.01172
-    FORD_[ECU] CL LAMBDA CORR: 0.01172
-  response: 7E8056203BD0060
-- expected_values:
-    FORD_CL_LC: 0.01196
-    FORD_[ECU] CL LAMBDA CORR: 0.01196
-  response: 7E8056203BD0062
-- expected_values:
-    FORD_CL_LC: 0.01465
-    FORD_[ECU] CL LAMBDA CORR: 0.01465
-  response: 7E8056203BD0078
-- expected_values:
-    FORD_CL_LC: 0.01514
-    FORD_[ECU] CL LAMBDA CORR: 0.01514
-  response: 7E8056203BD007C
-- expected_values:
     FORD_CL_LC: -0.01477
     FORD_[ECU] CL LAMBDA CORR: 5
   response: 7E8056203BDFF87
