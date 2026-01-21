@@ -1,17 +1,29 @@
 command_id: 7E0.7E8.2203DC
 test_cases:
 - expected_values:
+    FORD_HPFP_DES: 68.16774
+  response: 7E8056203DC002F
+- expected_values:
     FORD_HPFP_DES: 449.61699
   response: 7E8056203DC0136
 - expected_values:
     FORD_HPFP_DES: 487.32681
   response: 7E8056203DC0150
 - expected_values:
+    FORD_HPFP_DES: 574.34945
+  response: 7E8056203DC018C
+- expected_values:
+    FORD_HPFP_DES: 758.54738
+  response: 7E8056203DC020B
+- expected_values:
     FORD_HPFP_DES: 759.99776
   response: 7E8056203DC020C
 - expected_values:
     FORD_HPFP_DES: 1411.21721
   response: 7E8056203DC03CD
+- expected_values:
+    FORD_HPFP_DES: 1849.23118
+  response: 7E8056203DC04FB
 - expected_values:
     FORD_HPFP_DES: 2031.97873
   response: 7E8056203DC0579

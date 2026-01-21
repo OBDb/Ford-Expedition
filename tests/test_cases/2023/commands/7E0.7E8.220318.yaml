@@ -5,28 +5,7 @@ test_cases:
   response: '7E8056203180000'
 - expected_values:
     FORD_VCT_INT_ACT: 0
-  response: '7E8056203180001'
-- expected_values:
-    FORD_VCT_INT_ACT: 0
-  response: '7E8056203180003'
-- expected_values:
-    FORD_VCT_INT_ACT: 0
-  response: '7E8056203180005'
-- expected_values:
-    FORD_VCT_INT_ACT: 0
-  response: 7E805620318FDF9
-- expected_values:
-    FORD_VCT_INT_ACT: 0
-  response: 7E805620318FE8F
-- expected_values:
-    FORD_VCT_INT_ACT: 0
-  response: 7E805620318FF10
-- expected_values:
-    FORD_VCT_INT_ACT: 0
-  response: 7E805620318FF17
-- expected_values:
-    FORD_VCT_INT_ACT: 0
-  response: 7E805620318FF3A
+  response: 7E805620318FF0F
 - expected_values:
     FORD_VCT_INT_ACT: 0
   response: 7E805620318FFFE
