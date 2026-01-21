@@ -16,3 +16,11 @@ test_cases:
     FORD_TP_RR: 39.9
     FORD_TP_RRO: 39.9
   response: 72E05622815031E
+- expected_values:
+    FORD_TP_RR: 40.4
+    FORD_TP_RRO: 40.4
+  response: '72E056228150328'
+- expected_values:
+    FORD_TP_RR: 40.65
+    FORD_TP_RRO: 40.65
+  response: 72E05622815032D
