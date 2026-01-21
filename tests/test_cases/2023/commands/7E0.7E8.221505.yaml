@@ -3,3 +3,30 @@ test_cases:
 - expected_values:
     FORD_VSS_HD: 0
   response: '7E8056215050000'
+- expected_values:
+    FORD_VSS_HD: 5.51562
+  response: 7E80562150502C2
+- expected_values:
+    FORD_VSS_HD: 8.44531
+  response: '7E8056215050439'
+- expected_values:
+    FORD_VSS_HD: 28.09375
+  response: 7E8056215050E0C
+- expected_values:
+    FORD_VSS_HD: 29.91406
+  response: 7E8056215050EF5
+- expected_values:
+    FORD_VSS_HD: 40.92188
+  response: '7E8056215051476'
+- expected_values:
+    FORD_VSS_HD: 56.92969
+  response: 7E8056215051C77
+- expected_values:
+    FORD_VSS_HD: 58.21094
+  response: 7E8056215051D1B
+- expected_values:
+    FORD_VSS_HD: 58.23438
+  response: 7E8056215051D1E
+- expected_values:
+    FORD_VSS_HD: 60.71875
+  response: 7E8056215051E5C

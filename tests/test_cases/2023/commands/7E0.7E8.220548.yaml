@@ -3,3 +3,30 @@ test_cases:
 - expected_values:
     FORD_LPFP_ACT: 56.49349
   response: 7E805620548030B
+- expected_values:
+    FORD_LPFP_ACT: 64.61579
+  response: 7E805620548037B
+- expected_values:
+    FORD_LPFP_ACT: 64.83335
+  response: 7E805620548037E
+- expected_values:
+    FORD_LPFP_ACT: 64.97839
+  response: '7E8056205480380'
+- expected_values:
+    FORD_LPFP_ACT: 65.19595
+  response: '7E8056205480383'
+- expected_values:
+    FORD_LPFP_ACT: 65.84864
+  response: 7E805620548038C
+- expected_values:
+    FORD_LPFP_ACT: 66.7914
+  response: '7E8056205480399'
+- expected_values:
+    FORD_LPFP_ACT: 67.80669
+  response: 7E80562054803A7
+- expected_values:
+    FORD_LPFP_ACT: 68.02425
+  response: 7E80562054803AA
+- expected_values:
+    FORD_LPFP_ACT: 68.16929
+  response: 7E80562054803AC
