@@ -4,8 +4,11 @@ test_cases:
     FORD_RO2_V: 0.1123
   response: 7E80562035F0073
 - expected_values:
-    FORD_RO2_V: 0.24707
-  response: 7E80562035F00FD
+    FORD_RO2_V: 0.24902
+  response: 7E80562035F00FF
+- expected_values:
+    FORD_RO2_V: 0.26855
+  response: 7E80562035F0113
 - expected_values:
     FORD_RO2_V: 0.7793
   response: 7E80562035F031E

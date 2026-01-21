@@ -4,26 +4,8 @@ test_cases:
     FORD_AC_P_SENS_V: 1.26953
   response: '7E8056298000514'
 - expected_values:
-    FORD_AC_P_SENS_V: 1.2793
-  response: 7E805629800051E
+    FORD_AC_P_SENS_V: 1.46484
+  response: 7E80562980005DC
 - expected_values:
-    FORD_AC_P_SENS_V: 1.30859
-  response: 7E805629800053C
-- expected_values:
-    FORD_AC_P_SENS_V: 1.32324
-  response: 7E805629800054B
-- expected_values:
-    FORD_AC_P_SENS_V: 1.34766
-  response: '7E8056298000564'
-- expected_values:
-    FORD_AC_P_SENS_V: 1.3623
-  response: '7E8056298000573'
-- expected_values:
-    FORD_AC_P_SENS_V: 1.4209
-  response: 7E80562980005AF
-- expected_values:
-    FORD_AC_P_SENS_V: 1.55273
-  response: '7E8056298000636'
-- expected_values:
-    FORD_AC_P_SENS_V: 1.95312
-  response: 7E80562980007D0
+    FORD_AC_P_SENS_V: 1.75293
+  response: '7E8056298000703'
