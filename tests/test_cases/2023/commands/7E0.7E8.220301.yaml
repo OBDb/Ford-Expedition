@@ -4,11 +4,11 @@ test_cases:
     FORD_MAP_V: 0.32324
   response: 7E805620301014B
 - expected_values:
-    FORD_MAP_V: 0.72754
-  response: 7E80562030102E9
+    FORD_MAP_V: 0.50391
+  response: '7E8056203010204'
 - expected_values:
-    FORD_MAP_V: 1.0459
-  response: 7E805620301042F
+    FORD_MAP_V: 1.24023
+  response: 7E80562030104F6
 - expected_values:
-    FORD_MAP_V: 1.55078
-  response: '7E8056203010634'
+    FORD_MAP_V: 1.54785
+  response: '7E8056203010631'

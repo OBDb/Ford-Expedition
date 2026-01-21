@@ -4,29 +4,5 @@ test_cases:
     FORD_ODO: 129566
   response: 7E80662DD0101FA1E
 - expected_values:
-    FORD_ODO: 129571
-  response: 7E80662DD0101FA23
-- expected_values:
-    FORD_ODO: 129572
-  response: 7E80662DD0101FA24
-- expected_values:
-    FORD_ODO: 129573
-  response: 7E80662DD0101FA25
-- expected_values:
-    FORD_ODO: 129574
-  response: 7E80662DD0101FA26
-- expected_values:
-    FORD_ODO: 129582
-  response: 7E80662DD0101FA2E
-- expected_values:
-    FORD_ODO: 129583
-  response: 7E80662DD0101FA2F
-- expected_values:
-    FORD_ODO: 129584
-  response: 7E80662DD0101FA30
-- expected_values:
-    FORD_ODO: 129585
-  response: 7E80662DD0101FA31
-- expected_values:
-    FORD_ODO: 129601
-  response: 7E80662DD0101FA41
+    FORD_ODO: 129603
+  response: 7E80662DD0101FA43
