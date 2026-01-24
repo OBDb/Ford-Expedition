@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_Expedition"
+
 generations:
   - name: "First Generation (UN93)"
     start_year: 1997
@@ -16,5 +19,10 @@ generations:
 
   - name: "Fourth Generation (U553)"
     start_year: 2018
+    end_year: 2024
+    description: "The fourth-generation Expedition featured a complete redesign with an aluminum-alloy body similar to the F-150, resulting in significant weight reduction. Available in standard and long-wheelbase Max configurations, it offered seating for up to eight passengers with improved interior space. Powered exclusively by a 3.5L EcoBoost V6 producing up to 400 HP in higher trims, paired with a 10-speed automatic transmission. The interior represented a major advancement with higher quality materials and technology, including available SYNC 4 with a 15.5-inch vertical touchscreen in updated models. Features included active noise cancellation, panoramic sunroof, and advanced driver assistance technologies. A significant refresh for 2022 updated the exterior styling, interior technology, and added the off-road oriented Timberline and street-performance Stealth Performance packages. This generation combined the capability expected of a full-size SUV with modern technology, efficiency, and refinement."
+
+  - name: "Fifth Generation (U717)"
+    start_year: 2025
     end_year: null
-    description: "The current Expedition features a complete redesign with an aluminum-alloy body similar to the F-150, resulting in significant weight reduction. Available in standard and long-wheelbase Max configurations, it offers seating for up to eight passengers with improved interior space. Powered exclusively by a 3.5L EcoBoost V6 producing up to 400 HP in higher trims, paired with a 10-speed automatic transmission. The interior represents a major advancement with higher quality materials and technology, including available SYNC 4 with a 15.5-inch vertical touchscreen in updated models. Features include active noise cancellation, panoramic sunroof, and advanced driver assistance technologies. A significant refresh for 2022 updated the exterior styling, interior technology, and added the off-road oriented Timberline and street-performance Stealth Performance packages. The fourth-generation Expedition combines the capability expected of a full-size SUV with modern technology, efficiency, and refinement, maintaining its position as Ford's flagship family SUV."
+    description: "The fifth-generation Expedition represents the latest redesign with a reworked liftgate called the Ford Split Gate, where the top half opens like a standard liftgate while the lower half opens like a pickup truck tailgate. Available in standard and long-wheelbase MAX configurations, it retains body-on-frame architecture with aluminum-alloy body construction. Powered by the 3.5L Twin-Turbo EcoBoost V6, paired with the 10-speed SelectShift automatic transmission. New trim levels include the Active as the entry-level model and the Tremor off-road variant with specialized off-road features. The interior features the Ford Digital Experience with a 24-inch panoramic display and advanced connectivity including WiFi hotspot, Alexa, Google Play, and Google Maps. The Flex Powered Console allows the center console to slide back nearly 8 inches for improved second-row access. With off-road capabilities including Trail 1-Pedal, Rock Crawl Mode, and Trail Turn Assist on the Tremor, this generation sets a new standard for full-size luxury SUVs."
