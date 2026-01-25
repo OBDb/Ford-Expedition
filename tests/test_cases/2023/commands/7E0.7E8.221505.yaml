@@ -7,5 +7,5 @@ test_cases:
     FORD_VSS_HD: 57.99219
   response: 7E8056215051CFF
 - expected_values:
-    FORD_VSS_HD: 70.47656
-  response: 7E805621505233D
+    FORD_VSS_HD: 113.03906
+  response: '7E8056215053885'
