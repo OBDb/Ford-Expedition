@@ -10,5 +10,5 @@ test_cases:
     FORD_DIST_DTC_CLR: 26368
   response: 7E80562F4316700
 - expected_values:
-    FORD_DIST_DTC_CLR: 27841
-  response: 7E80562F4316CC1
+    FORD_DIST_DTC_CLR: 27905
+  response: 7E80562F4316D01
