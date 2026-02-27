@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220460
+test_cases:
+- expected_values:
+    FORD_CAT_SENS_V: 2.85156
+  response: 7E8056204600B68
+- expected_values:
+    FORD_CAT_SENS_V: 2.85645
+  response: 7E8056204600B6D
