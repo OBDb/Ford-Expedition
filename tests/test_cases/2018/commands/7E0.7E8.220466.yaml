@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.220466
 test_cases:
 - expected_values:
-    FORD_TIP_DES_ABS: 13.6367
-  response: '7E8056204663025'
+    FORD_TIP_DES_ABS: 13.61789
+  response: '7E8056204663014'
 - expected_values:
-    FORD_TIP_DES_ABS: 13.64002
-  response: '7E8056204663028'
+    FORD_TIP_DES_ABS: 13.8768
+  response: 7E80562046630FE
+- expected_values:
+    FORD_TIP_DES_ABS: 19.58485
+  response: '7E8056204664525'
