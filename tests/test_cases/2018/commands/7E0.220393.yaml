@@ -4,8 +4,8 @@ test_cases:
     FORD_AC_P: 63.23646
   response: 7E80562039300DA
 - expected_values:
-    FORD_AC_P: 64.97691
-  response: 7E80562039300E0
+    FORD_AC_P: 146.48813
+  response: 7E80562039301F9
 - expected_values:
-    FORD_AC_P: 95.14476
-  response: '7E8056203930148'
+    FORD_AC_P: 153.44994
+  response: '7E8056203930211'
