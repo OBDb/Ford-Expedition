@@ -10,5 +10,5 @@ test_cases:
     FORD_DTE: 307.3
   response: 7E8056241940C01
 - expected_values:
-    FORD_DTE: 360.3
-  response: 7E8056241940E13
+    FORD_DTE: 410.2
+  response: '7E8056241941006'
