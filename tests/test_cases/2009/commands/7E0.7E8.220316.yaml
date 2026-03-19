@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.220316
+test_cases:
+- expected_values:
+    FORD_VCT_INT_DUTY: 0
+  response: '7E8056203160000'
+- expected_values:
+    FORD_VCT_INT_DUTY: 39.8407
+  response: 7E80562031632FF
+- expected_values:
+    FORD_VCT_INT_DUTY: 40.55176
+  response: 7E80562031633E8
+- expected_values:
+    FORD_VCT_INT_DUTY: 42.58728
+  response: '7E8056203163683'
+- expected_values:
+    FORD_VCT_INT_DUTY: 43.98193
+  response: 7E805620316384C
+- expected_values:
+    FORD_VCT_INT_DUTY: 44.99207
+  response: '7E8056203163997'
+- expected_values:
+    FORD_VCT_INT_DUTY: 45.95642
+  response: 7E8056203163AD3
+- expected_values:
+    FORD_VCT_INT_DUTY: 49.4751
+  response: 7E8056203163F54
