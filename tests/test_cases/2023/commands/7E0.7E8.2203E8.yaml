@@ -5,22 +5,7 @@ test_cases:
   response: 7E8056203E8C000
 - expected_values:
     FORD_OAR: 1
-  response: 7E8056203E8C354
+  response: 7E8056203E8C8E3
 - expected_values:
     FORD_OAR: 1
-  response: 7E8056203E8C602
-- expected_values:
-    FORD_OAR: 1
-  response: 7E8056203E8C71F
-- expected_values:
-    FORD_OAR: 1
-  response: 7E8056203E8C744
-- expected_values:
-    FORD_OAR: 1
-  response: 7E8056203E8C760
-- expected_values:
-    FORD_OAR: 1
-  response: 7E8056203E8C9CE
-- expected_values:
-    FORD_OAR: 1
-  response: 7E8056203E8D41C
+  response: 7E8056203E8EE94
