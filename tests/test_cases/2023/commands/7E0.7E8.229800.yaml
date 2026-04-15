@@ -16,5 +16,5 @@ test_cases:
     7E80462D10003
     7E8016A
 - expected_values:
-    FORD_AC_P_SENS_V: 2.03613
-  response: '7E8056298000825'
+    FORD_AC_P_SENS_V: 2.00195
+  response: '7E8056298000802'
