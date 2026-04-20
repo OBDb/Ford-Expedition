@@ -26,8 +26,8 @@ test_cases:
     FORD_PCM_CMD_TRANS_MAIN_LINE_P: 510
   response: 7E805621E1A00FF
 - expected_values:
-    FORD_PCM_CMD_TRANS_MAIN_LINE_P: 518
-  response: 7E805621E1A0103
+    FORD_PCM_CMD_TRANS_MAIN_LINE_P: 514
+  response: 7E805621E1A0101
 - expected_values:
     FORD_PCM_CMD_TRANS_MAIN_LINE_P: 1590
   response: 7E805621E1A031B
