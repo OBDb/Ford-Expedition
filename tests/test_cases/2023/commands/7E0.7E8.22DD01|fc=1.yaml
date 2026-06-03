@@ -30,3 +30,6 @@ test_cases:
     7E803410579
     7E8016A
     7E803410579
+- expected_values:
+    FORD_ODO: 131266
+  response: 7E80662DD010200C2
