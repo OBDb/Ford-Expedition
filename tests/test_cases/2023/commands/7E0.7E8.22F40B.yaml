@@ -52,5 +52,5 @@ test_cases:
     7E8016A
     7E80341057B
 - expected_values:
-    FORD_MAP: 25.96197
-  response: 7E80462F40BB3
+    FORD_MAP: 30.74826
+  response: 7E80462F40BD4
