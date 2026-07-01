@@ -3,3 +3,11 @@ test_cases:
 - expected_values:
     FORD_ODO: 158310
   response: 7E80662DD01026A66
+- expected_values:
+    FORD_ODO: 158317
+  response: 7E80662DD01026A6D
+- expected_values:
+    FORD_ODO: 158310
+  response: |-
+    7E90662DD01026A66
+    7E80662DD01026A66
