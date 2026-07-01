@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22F404
+test_cases:
+- expected_values:
+    FORD_ENG_LOAD_PCT: 34.11765
+  response: 7E80462F40457
+- expected_values:
+    FORD_ENG_LOAD_PCT: 34.5098
+  response: 7E80462F40458
+- expected_values:
+    FORD_ENG_LOAD_PCT: 34.90196
+  response: 7E80462F40459
+- expected_values:
+    FORD_ENG_LOAD_PCT: 35.29412
+  response: 7E80462F4045A
+- expected_values:
+    FORD_ENG_LOAD_PCT: 35.68627
+  response: 7E80462F4045B
