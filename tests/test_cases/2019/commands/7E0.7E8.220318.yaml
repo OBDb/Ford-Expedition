@@ -14,6 +14,9 @@ test_cases:
   response: '7E8056203180003'
 - expected_values:
     FORD_VCT_INT_ACT: 0
+  response: 7E805620318FFF9
+- expected_values:
+    FORD_VCT_INT_ACT: 0
   response: 7E805620318FFFB
 - expected_values:
     FORD_VCT_INT_ACT: 0
