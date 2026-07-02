@@ -1,6 +1,30 @@
 command_id: 7E0.7E8.22033C
 test_cases:
 - expected_values:
+    FORD_TIP_V: 1.51855
+    FORD_[ECU] TIP SENSOR VOLTAGE: 1.51855
+  response: 7E80562033C0137
+- expected_values:
     FORD_TIP_V: 1.52344
     FORD_[ECU] TIP SENSOR VOLTAGE: 1.52344
   response: 7E80562033C0138
+- expected_values:
+    FORD_TIP_V: 1.5332
+    FORD_[ECU] TIP SENSOR VOLTAGE: 1.5332
+  response: 7E80562033C013A
+- expected_values:
+    FORD_TIP_V: 1.61621
+    FORD_[ECU] TIP SENSOR VOLTAGE: 1.61621
+  response: 7E80562033C014B
+- expected_values:
+    FORD_TIP_V: 1.74805
+    FORD_[ECU] TIP SENSOR VOLTAGE: 1.74805
+  response: 7E80562033C0166
+- expected_values:
+    FORD_TIP_V: 1.78711
+    FORD_[ECU] TIP SENSOR VOLTAGE: 1.78711
+  response: 7E80562033C016E
+- expected_values:
+    FORD_TIP_V: 1.88965
+    FORD_[ECU] TIP SENSOR VOLTAGE: 1.88965
+  response: 7E80562033C0183
