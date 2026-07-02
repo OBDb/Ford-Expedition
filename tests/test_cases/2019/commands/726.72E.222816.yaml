@@ -12,3 +12,15 @@ test_cases:
     FORD_TP_RL: 37.2
     FORD_TP_RLO: 37.2
   response: 72E0562281602E8
+- expected_values:
+    FORD_TP_RL: 37.45
+    FORD_TP_RLO: 37.45
+  response: 72E0562281602ED
+- expected_values:
+    FORD_TP_RL: 37.7
+    FORD_TP_RLO: 37.7
+  response: 72E0562281602F2
+- expected_values:
+    FORD_TP_RL: 38.2
+    FORD_TP_RLO: 38.2
+  response: 72E0562281602FC
