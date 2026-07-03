@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2203BB
+test_cases:
+- expected_values:
+    FORD_VCT_EXH_DES: 0.9375
+  response: 7E8056203BB000F
+- expected_values:
+    FORD_VCT_EXH_DES: 1.4375
+  response: 7E8056203BB0017
+- expected_values:
+    FORD_VCT_EXH_DES: 29.5625
+  response: 7E8056203BB01D9
+- expected_values:
+    FORD_VCT_EXH_DES: 29.75
+  response: 7E8056203BB01DC
+- expected_values:
+    FORD_VCT_EXH_DES: 30.3125
+  response: 7E8056203BB01E5
