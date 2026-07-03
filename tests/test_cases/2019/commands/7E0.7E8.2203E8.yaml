@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2203E8
 test_cases:
 - expected_values:
+    FORD_OAR: 0.00519
+  response: 7E8056203E80055
+- expected_values:
     FORD_OAR: 0.02649
   response: 7E8056203E801B2
 - expected_values:
