@@ -20,6 +20,9 @@ test_cases:
   response: 7E8056203E8FBE0
 - expected_values:
     FORD_OAR: 1
+  response: 7E8056203E8FDA9
+- expected_values:
+    FORD_OAR: 1
   response: 7E8056203E8FEDF
 - expected_values:
     FORD_OAR: 1
