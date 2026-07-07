@@ -1,11 +1,23 @@
 command_id: 7E0.7E8.22031B
 test_cases:
 - expected_values:
+    FORD_VCT_EXH_ERR: 0
+  response: 7E80562031B0000
+- expected_values:
+    FORD_VCT_EXH_ERR: 0.0625
+  response: 7E80562031B0001
+- expected_values:
     FORD_VCT_EXH_ERR: 0.1875
   response: 7E80562031B0003
 - expected_values:
     FORD_VCT_EXH_ERR: 0.625
   response: 7E80562031B000A
+- expected_values:
+    FORD_VCT_EXH_ERR: 0.6875
+  response: 7E80562031B000B
+- expected_values:
+    FORD_VCT_EXH_ERR: 50
+  response: 7E80562031BFFE0
 - expected_values:
     FORD_VCT_EXH_ERR: 50
   response: 7E80562031BFFF4
@@ -15,3 +27,6 @@ test_cases:
 - expected_values:
     FORD_VCT_EXH_ERR: 50
   response: 7E80562031BFFFD
+- expected_values:
+    FORD_VCT_EXH_ERR: 50
+  response: 7E80562031BFFFE
