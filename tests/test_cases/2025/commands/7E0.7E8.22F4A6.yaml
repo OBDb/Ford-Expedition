@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F4A6
+test_cases:
+- expected_values:
+    FORD_PCM_VEH_ODO: 38934
+  response: 7E80762F4A60005F0DC
+- expected_values:
+    FORD_PCM_VEH_ODO: 38990
+  response: 7E80762F4A60005F30C
+- expected_values:
+    FORD_PCM_VEH_ODO: 39347.1
+  response: 7E80762F4A6000600FF

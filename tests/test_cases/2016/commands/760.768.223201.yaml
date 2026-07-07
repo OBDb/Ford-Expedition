@@ -9,18 +9,10 @@ test_cases:
     FORD_STEER_ANGLE: 781.25
   response: 768056232017DFE
 - expected_values:
-    FORD_STEER_ANG: -24.5
-    FORD_STEER_ANGLE: 787.5
-  response: '768056232017E16'
+    FORD_STEER_ANG: 0
+    FORD_STEER_ANGLE: -790
+  response: '768056232018000'
 - expected_values:
-    FORD_STEER_ANG: -18.5
-    FORD_STEER_ANGLE: 787.5
-  response: 768056232017E8E
-- expected_values:
-    FORD_STEER_ANG: -14.5
-    FORD_STEER_ANGLE: 787.5
-  response: 768056232017EDE
-- expected_values:
-    FORD_STEER_ANG: -11.2
-    FORD_STEER_ANGLE: 790
-  response: 768056232017F20
+    FORD_STEER_ANG: 47.7
+    FORD_STEER_ANGLE: -781.25
+  response: 7680562320183BA
