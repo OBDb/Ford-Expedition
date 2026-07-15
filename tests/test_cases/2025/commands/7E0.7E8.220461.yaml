@@ -4,11 +4,11 @@ test_cases:
     FORD_CAT: -17.03125
   response: 7E80562046105BE
 - expected_values:
+    FORD_CAT: -11.90625
+  response: '7E8056204610706'
+- expected_values:
     FORD_CAT: -4.03125
   response: 7E80562046108FE
-- expected_values:
-    FORD_CAT: -3.90625
-  response: '7E8056204610906'
 - expected_values:
     FORD_CAT: 20.21875
   response: 7E8056204610F0E
