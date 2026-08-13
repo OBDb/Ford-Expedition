@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.220301
+test_cases:
+- expected_values:
+    FORD_MAP_V: 0.81055
+  response: 7E805620301033E
+- expected_values:
+    FORD_MAP_V: 0.92285
+  response: 7E80562030103B1
+- expected_values:
+    FORD_MAP_V: 0.93262
+  response: 7E80562030103BB
+- expected_values:
+    FORD_MAP_V: 0.9375
+  response: 7E80562030103C0
+- expected_values:
+    FORD_MAP_V: 0.94238
+  response: 7E80562030103C5
+- expected_values:
+    FORD_MAP_V: 0.94727
+  response: 7E80562030103CA
