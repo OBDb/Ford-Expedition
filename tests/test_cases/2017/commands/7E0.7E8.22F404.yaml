@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22F404
+test_cases:
+- expected_values:
+    FORD_ENG_LOAD_PCT: 0
+  response: 7E80462F40400
+- expected_values:
+    FORD_ENG_LOAD_PCT: 33.33333
+  response: 7E80462F40455
+- expected_values:
+    FORD_ENG_LOAD_PCT: 34.11765
+  response: 7E80462F40457
+- expected_values:
+    FORD_ENG_LOAD_PCT: 34.5098
+  response: 7E80462F40458
+- expected_values:
+    FORD_ENG_LOAD_PCT: 35.29412
+  response: 7E80462F4045A
+- expected_values:
+    FORD_ENG_LOAD_PCT: 42.35294
+  response: 7E80462F4046C
+- expected_values:
+    FORD_ENG_LOAD_PCT: 43.52941
+  response: 7E80462F4046F
+- expected_values:
+    FORD_ENG_LOAD_PCT: 43.92157
+  response: 7E80462F40470
+- expected_values:
+    FORD_ENG_LOAD_PCT: 44.31373
+  response: 7E80462F40471
