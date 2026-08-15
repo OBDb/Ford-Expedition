@@ -7,8 +7,8 @@ test_cases:
     FORD_CAT_SENS_V: 1.25
   response: '7E8056204600500'
 - expected_values:
-    FORD_CAT_SENS_V: 1.74805
-  response: 7E80562046006FE
+    FORD_CAT_SENS_V: 1.49902
+  response: 7E80562046005FF
 - expected_values:
     FORD_CAT_SENS_V: 2.26074
   response: 7E805620460090B
