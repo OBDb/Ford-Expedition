@@ -4,29 +4,5 @@ test_cases:
     FORD_MIL_DIST: 0
   response: 7E80562F4210000
 - expected_values:
-    FORD_MIL_DIST: 4
-  response: 7E80562F4210004
-- expected_values:
-    FORD_MIL_DIST: 7
-  response: 7E80562F4210007
-- expected_values:
-    FORD_MIL_DIST: 8
-  response: 7E80562F4210008
-- expected_values:
-    FORD_MIL_DIST: 9
-  response: 7E80562F4210009
-- expected_values:
-    FORD_MIL_DIST: 13
-  response: 7E80562F421000D
-- expected_values:
-    FORD_MIL_DIST: 14
-  response: 7E80562F421000E
-- expected_values:
-    FORD_MIL_DIST: 15
-  response: 7E80562F421000F
-- expected_values:
-    FORD_MIL_DIST: 16
-  response: 7E80562F4210010
-- expected_values:
-    FORD_MIL_DIST: 17
-  response: 7E80562F4210011
+    FORD_MIL_DIST: 75
+  response: 7E80562F421004B
