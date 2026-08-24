@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    FORD_DIST_DTC_CLR: 14973
+  response: 7E80562F4313A7D
+- expected_values:
+    FORD_DIST_DTC_CLR: 14974
+  response: 7E80562F4313A7E
+- expected_values:
+    FORD_DIST_DTC_CLR: 14975
+  response: 7E80562F4313A7F
+- expected_values:
+    FORD_DIST_DTC_CLR: 14976
+  response: 7E80562F4313A80
+- expected_values:
+    FORD_DIST_DTC_CLR: 14977
+  response: 7E80562F4313A81
+- expected_values:
+    FORD_DIST_DTC_CLR: 14978
+  response: 7E80562F4313A82
