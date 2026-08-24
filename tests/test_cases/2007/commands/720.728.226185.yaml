@@ -1,0 +1,14 @@
+command_id: 720.728.226185
+test_cases:
+- expected_values:
+    FORD_FLI_V2: 76.07843
+  response: 72804626185C2
+- expected_values:
+    FORD_FLI_V2: 76.47059
+  response: 72804626185C3
+- expected_values:
+    FORD_FLI_V2: 76.86275
+  response: 72804626185C4
+- expected_values:
+    FORD_FLI_V2: 77.2549
+  response: 72804626185C5
