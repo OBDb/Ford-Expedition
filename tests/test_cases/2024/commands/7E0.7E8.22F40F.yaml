@@ -4,5 +4,5 @@ test_cases:
     FORD_IAT_ALT2: 19
   response: 7E80462F40F3B
 - expected_values:
-    FORD_IAT_ALT2: 66
-  response: 7E80462F40F6A
+    FORD_IAT_ALT2: 70
+  response: 7E80462F40F6E
