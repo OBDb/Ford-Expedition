@@ -5,38 +5,6 @@ test_cases:
     FORD_VEH_BAT_CURRENT: -127
   response: 72E0462402B6E
 - expected_values:
-    FORD_12V_A: -2
+    FORD_12V_A: 24
     FORD_VEH_BAT_CURRENT: -126
-  response: 72E0462402B7D
-- expected_values:
-    FORD_12V_A: 6
-    FORD_VEH_BAT_CURRENT: -126
-  response: 72E0462402B85
-- expected_values:
-    FORD_12V_A: 7
-    FORD_VEH_BAT_CURRENT: -127
-  response: 72E0462402B86
-- expected_values:
-    FORD_12V_A: 8
-    FORD_VEH_BAT_CURRENT: -126
-  response: 72E0462402B87
-- expected_values:
-    FORD_12V_A: 9
-    FORD_VEH_BAT_CURRENT: -127
-  response: 72E0462402B88
-- expected_values:
-    FORD_12V_A: 10
-    FORD_VEH_BAT_CURRENT: -126
-  response: 72E0462402B89
-- expected_values:
-    FORD_12V_A: 11
-    FORD_VEH_BAT_CURRENT: -127
-  response: 72E0462402B8A
-- expected_values:
-    FORD_12V_A: 12
-    FORD_VEH_BAT_CURRENT: -126
-  response: 72E0462402B8B
-- expected_values:
-    FORD_12V_A: 13
-    FORD_VEH_BAT_CURRENT: -127
-  response: 72E0462402B8C
+  response: 72E0462402B97

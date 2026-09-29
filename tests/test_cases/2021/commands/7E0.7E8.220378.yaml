@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220378
+test_cases:
+- expected_values:
+    FORD_GEN_CTRL: 23.74456
+  response: 7E8056203781E64
+- expected_values:
+    FORD_GEN_CTRL: 36.75829
+  response: 7E8056203782F0C
+- expected_values:
+    FORD_GEN_CTRL: 58.39697
+  response: 7E8056203784ABE
+- expected_values:
+    FORD_GEN_CTRL: 90.9435
+  response: '7E8056203787466'
