@@ -2,19 +2,25 @@ command_id: 7E0.7E8.22DD01|fc=1
 test_cases:
 - expected_values:
     FORD_ODO: 170056
+    FORD_ODO_7E0: 170056
   response: 7E80662DD01029848
 - expected_values:
     FORD_ODO: 170057
+    FORD_ODO_7E0: 170057
   response: 7E80662DD01029849
 - expected_values:
     FORD_ODO: 170060
+    FORD_ODO_7E0: 170060
   response: 7E80662DD0102984C
 - expected_values:
     FORD_ODO: 170061
+    FORD_ODO_7E0: 170061
   response: 7E80662DD0102984D
 - expected_values:
     FORD_ODO: 170062
+    FORD_ODO_7E0: 170062
   response: 7E80662DD0102984E
 - expected_values:
     FORD_ODO: 170935
+    FORD_ODO_7E0: 170935
   response: 7E80662DD01029BB7
