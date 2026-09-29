@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F43C
 test_cases:
 - expected_values:
-    FORD_CAT_TEMP: 216.5
-  response: 7E80562F43C0A05
+    FORD_CAT_TEMP: 189.5
+  response: 7E80562F43C08F7
+- expected_values:
+    FORD_CAT_TEMP: 446.3
+  response: 7E80562F43C12FF
 - expected_values:
     FORD_CAT_TEMP: 446.4
   response: 7E80562F43C1300
 - expected_values:
-    FORD_CAT_TEMP: 471.7
-  response: 7E80562F43C13FD
-- expected_values:
-    FORD_CAT_TEMP: 758
-  response: 7E80562F43C1F2C
+    FORD_CAT_TEMP: 806.8
+  response: 7E80562F43C2114
