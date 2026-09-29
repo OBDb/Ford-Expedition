@@ -1,0 +1,8 @@
+command_id: 726.72E.224025
+test_cases:
+- expected_values:
+    FORD_BAT_QUIESCENT: 30
+  response: 72E05624025080C
+- expected_values:
+    FORD_BAT_QUIESCENT: 31
+  response: 72E05624025080E

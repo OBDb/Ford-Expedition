@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2216E8
+test_cases:
+- expected_values:
+    FORD_CMD_GEN_DUTY: 0
+  response: 7E8056216E80000
+- expected_values:
+    FORD_CMD_GEN_DUTY: 40.65264
+  response: 7E8056216E83408
+- expected_values:
+    FORD_CMD_GEN_DUTY: 42.00468
+  response: 7E8056216E835C3
+- expected_values:
+    FORD_CMD_GEN_DUTY: 42.78599
+  response: 7E8056216E836C3
+- expected_values:
+    FORD_CMD_GEN_DUTY: 46.3965
+  response: 7E8056216E83B62
+- expected_values:
+    FORD_CMD_GEN_DUTY: 46.93366
+  response: 7E8056216E83C12
+- expected_values:
+    FORD_CMD_GEN_DUTY: 50.0467
+  response: 7E8056216E8400E
+- expected_values:
+    FORD_CMD_GEN_DUTY: 50.61132
+  response: 7E8056216E840C7
