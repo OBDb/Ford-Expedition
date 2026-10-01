@@ -1,29 +1,38 @@
-command_id: 7E0.22030F
+command_id: 7E0.7E8.22030F
 test_cases:
 - expected_values:
     FORD_CL: 0.89999
+    FORD_[ECU] Commanded lambda: 0.89999
   response: 7E80562030F7333
 - expected_values:
     FORD_CL: 0.9852
+    FORD_[ECU] Commanded lambda: 0.9852
   response: 7E80562030F7E1B
 - expected_values:
     FORD_CL: 0.9881
+    FORD_[ECU] Commanded lambda: 0.9881
   response: 7E80562030F7E7A
 - expected_values:
     FORD_CL: 0.99008
+    FORD_[ECU] Commanded lambda: 0.99008
   response: 7E80562030F7EBB
 - expected_values:
     FORD_CL: 1
+    FORD_[ECU] Commanded lambda: 1
   response: 7E80562030F8000
 - expected_values:
     FORD_CL: 1.01007
+    FORD_[ECU] Commanded lambda: 1.01007
   response: 7E80562030F814A
 - expected_values:
     FORD_CL: 1.01273
+    FORD_[ECU] Commanded lambda: 1.01273
   response: 7E80562030F81A1
 - expected_values:
     FORD_CL: 1.01511
+    FORD_[ECU] Commanded lambda: 1.01511
   response: 7E80562030F81EF
 - expected_values:
     FORD_CL: 1.01523
+    FORD_[ECU] Commanded lambda: 1.01523
   response: 7E80562030F81F3

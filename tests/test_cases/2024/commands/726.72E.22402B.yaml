@@ -1,10 +1,8 @@
 command_id: 726.72E.22402B
 test_cases:
 - expected_values:
-    FORD_12V_A: -52
-    FORD_VEH_BAT_CURRENT: -126
+    FORD_VEH_BAT_CURRENT: -52
   response: 72E0462402B4B
 - expected_values:
-    FORD_12V_A: 55
-    FORD_VEH_BAT_CURRENT: -127
+    FORD_VEH_BAT_CURRENT: 55
   response: 72E0462402BB6

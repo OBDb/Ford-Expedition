@@ -1,17 +1,22 @@
 command_id: 760.768.22DD01
 test_cases:
 - expected_values:
+    FORD_ABS_ODO: 129566
     FORD_ODO_BCM: 129566
   response: 7680662DD0101FA1E
 - expected_values:
+    FORD_ABS_ODO: 130787
     FORD_ODO_BCM: 130787
   response: 7680662DD0101FEE3
 - expected_values:
+    FORD_ABS_ODO: 130961
     FORD_ODO_BCM: 130961
   response: 7680662DD0101FF91
 - expected_values:
+    FORD_ABS_ODO: 131266
     FORD_ODO_BCM: 131266
   response: 7680662DD010200C2
 - expected_values:
+    FORD_ABS_ODO: 131333
     FORD_ODO_BCM: 131333
   response: 7680662DD01020105
