@@ -2,13 +2,17 @@ command_id: 7E0.7E8.220301
 test_cases:
 - expected_values:
     FORD_MAP_V: 0.27539
+    FORD_[ECU] MAP voltage: 0.27539
   response: 7E805620301011A
 - expected_values:
     FORD_MAP_V: 0.49902
+    FORD_[ECU] MAP voltage: 0.49902
   response: 7E80562030101FF
 - expected_values:
     FORD_MAP_V: 0.75
+    FORD_[ECU] MAP voltage: 0.75
   response: '7E8056203010300'
 - expected_values:
     FORD_MAP_V: 2.51172
+    FORD_[ECU] MAP voltage: 2.51172
   response: 7E8056203010A0C

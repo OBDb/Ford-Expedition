@@ -1,14 +1,18 @@
-command_id: 7E0.220393
+command_id: 7E0.7E8.220393
 test_cases:
 - expected_values:
     FORD_AC_P: 122.12178
+    FORD_[ECU] AC Pressure: 122.12178
   response: 7E80562039301A5
 - expected_values:
     FORD_AC_P: 148.22858
+    FORD_[ECU] AC Pressure: 148.22858
   response: 7E80562039301FF
 - expected_values:
     FORD_AC_P: 148.80873
+    FORD_[ECU] AC Pressure: 148.80873
   response: '7E8056203930201'
 - expected_values:
     FORD_AC_P: 223.64821
+    FORD_[ECU] AC Pressure: 223.64821
   response: '7E8056203930303'
