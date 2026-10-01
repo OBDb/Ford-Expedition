@@ -1,14 +1,18 @@
-command_id: 7E0.22030F
+command_id: 7E0.7E8.22030F
 test_cases:
 - expected_values:
     FORD_CL: 0.66525
+    FORD_[ECU] Commanded lambda: 0.66525
   response: 7E80562030F5527
 - expected_values:
     FORD_CL: 0.94528
+    FORD_[ECU] Commanded lambda: 0.94528
   response: 7E80562030F78FF
 - expected_values:
     FORD_CL: 0.97656
+    FORD_[ECU] Commanded lambda: 0.97656
   response: 7E80562030F7D00
 - expected_values:
     FORD_CL: 1.34601
+    FORD_[ECU] Commanded lambda: 1.34601
   response: 7E80562030FAC4A

@@ -2,10 +2,13 @@ command_id: 7E0.7E8.22035F
 test_cases:
 - expected_values:
     FORD_RO2_V: 0.06348
+    FORD_[ECU] Rear O2 V: 0.06348
   response: 7E80562035F0041
 - expected_values:
     FORD_RO2_V: 0.74121
+    FORD_[ECU] Rear O2 V: 0.74121
   response: 7E80562035F02F7
 - expected_values:
     FORD_RO2_V: 0.77832
+    FORD_[ECU] Rear O2 V: 0.77832
   response: 7E80562035F031D

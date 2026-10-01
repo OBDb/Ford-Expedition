@@ -2,17 +2,13 @@ command_id: 7E0.7E8.22033E
 test_cases:
 - expected_values:
     FORD_TIP_ABS: 14.33818
-    FORD_[ECU] TIP ACTUAL ABS: 14.33818
   response: 7E80562033E329F
 - expected_values:
     FORD_TIP_ABS: 14.72985
-    FORD_[ECU] TIP ACTUAL ABS: 14.72985
   response: 7E80562033E3401
 - expected_values:
     FORD_TIP_ABS: 17.27685
-    FORD_[ECU] TIP ACTUAL ABS: 17.27685
   response: 7E80562033E3CFF
 - expected_values:
     FORD_TIP_ABS: 26.32631
-    FORD_[ECU] TIP ACTUAL ABS: 26.32631
   response: 7E80562033E5CF2
