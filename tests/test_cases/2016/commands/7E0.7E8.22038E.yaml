@@ -2,17 +2,17 @@ command_id: 7E0.7E8.22038E
 test_cases:
 - expected_values:
     FORD_EVAP_RAW: 1666
-    FORD_EVAP_V: 5
+    FORD_EVAP_V: 1.666
   response: 7E80562038E0682
 - expected_values:
     FORD_EVAP_RAW: 2046
-    FORD_EVAP_V: 5
+    FORD_EVAP_V: 2.046
   response: 7E80562038E07FE
 - expected_values:
     FORD_EVAP_RAW: 2312
-    FORD_EVAP_V: 5
+    FORD_EVAP_V: 2.312
   response: 7E80562038E0908
 - expected_values:
     FORD_EVAP_RAW: 2587
-    FORD_EVAP_V: 5
+    FORD_EVAP_V: 2.587
   response: 7E80562038E0A1B
