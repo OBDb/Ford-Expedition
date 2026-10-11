@@ -273,7 +273,22 @@
   ]},
 { "hdr": "7DF", "cmd": {"22": "1E12"}, "freq": 30, "dbgfilter": { "to": 2008, "years": [2011, 2012, 2013, 2014, 2015], "from": 2026 },
   "signals": [
-    {"id": "EXPEDITION_GEAR_7DF", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Current gear", "description": "The automatic transmission gear. Numbers aren't yet mapped to named gears."}
+    {"id": "EXPEDITION_GEAR_7DF", "path": "Transmission", "name": "Current gear, transmission module", "description": "The automatic transmission gear, as the transmission module reports it.", "fmt": {"len": 8, "map": {
+          "1":  { "description": "First gear",   "value": "1" },
+          "2":  { "description": "Second gear",  "value": "2" },
+          "3":  { "description": "Third gear",   "value": "3" },
+          "4":  { "description": "Fourth gear",  "value": "4" },
+          "5":  { "description": "Fifth gear",   "value": "5" },
+          "6":  { "description": "Sixth gear",   "value": "6" },
+          "7":  { "description": "Seventh gear", "value": "7" },
+          "8":  { "description": "Eighth gear",  "value": "8" },
+          "9":  { "description": "Ninth gear",   "value": "9" },
+          "10": { "description": "Tenth gear",   "value": "10" },
+          "50": { "description": "Neutral",      "value": "NEUTRAL" },
+          "60": { "description": "Reverse",      "value": "REVERSE" },
+          "70": { "description": "Park",         "value": "PARK" }
+        }}
+    }
   ]},
 { "hdr": "7DF", "cmd": {"22": "1E1C"}, "freq": 5, "dbgfilter": { "to": 2008, "years": [2011, 2012, 2013, 2014, 2015], "from": 2026 },
   "signals": [
