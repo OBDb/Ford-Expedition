@@ -1,34 +1,26 @@
 command_id: 726.72E.224027
 test_cases:
 - expected_values:
-    FORD_12V_AGE: 10320
-    FORD_BATT_AGE: 430
+    EXPEDITION_BATT_AGE: 430
   response: 72E0562402701AE
 - expected_values:
-    FORD_12V_AGE: 10344
-    FORD_BATT_AGE: 431
+    EXPEDITION_BATT_AGE: 431
   response: 72E0562402701AF
 - expected_values:
-    FORD_12V_AGE: 10368
-    FORD_BATT_AGE: 432
+    EXPEDITION_BATT_AGE: 432
   response: 72E0562402701B0
 - expected_values:
-    FORD_12V_AGE: 10536
-    FORD_BATT_AGE: 439
+    EXPEDITION_BATT_AGE: 439
   response: 72E0562402701B7
 - expected_values:
-    FORD_12V_AGE: 10800
-    FORD_BATT_AGE: 450
+    EXPEDITION_BATT_AGE: 450
   response: 72E0562402701C2
 - expected_values:
-    FORD_12V_AGE: 10848
-    FORD_BATT_AGE: 452
+    EXPEDITION_BATT_AGE: 452
   response: 72E0562402701C4
 - expected_values:
-    FORD_12V_AGE: 12312
-    FORD_BATT_AGE: 513
+    EXPEDITION_BATT_AGE: 513
   response: '72E056240270201'
 - expected_values:
-    FORD_12V_AGE: 12384
-    FORD_BATT_AGE: 516
+    EXPEDITION_BATT_AGE: 516
   response: '72E056240270204'

@@ -1,11 +1,11 @@
 command_id: 7DF.221E1C
 test_cases:
 - expected_values:
-    FORD_TOT_V2: 45.8125
+    EXPEDITION_TOT: 45.8125
   response: 7E905621E1C02DD
 - expected_values:
-    FORD_TOT_V2: 79.8125
+    EXPEDITION_TOT: 79.8125
   response: 7E905621E1C04FD
 - expected_values:
-    FORD_TOT_V2: 96
+    EXPEDITION_TOT: 96
   response: 7E905621E1C0600

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220353
 test_cases:
 - expected_values:
-    FORD_BARO: 13.55951
+    EXPEDITION_BARO: 13.55951
   response: '7E8056203530176'
 - expected_values:
-    FORD_BARO: 14.79219
+    EXPEDITION_BARO: 14.79219
   response: '7E8056203530198'

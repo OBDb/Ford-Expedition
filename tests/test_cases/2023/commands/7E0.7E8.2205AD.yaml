@@ -1,7 +1,7 @@
 command_id: 7E0.7E8.2205AD
 test_cases:
 - expected_values:
-    FORD_PCM_CYL_2_KNK_COMB_PERF_CNT: 0
+    EXPEDITION_PCM_CYL_2_KNK_COMB_PERF_CNT: 0
   response: |-
     7E803410579
     7E8046205AD00
@@ -12,11 +12,11 @@ test_cases:
     7E8016A
     7E803410579
 - expected_values:
-    FORD_PCM_CYL_2_KNK_COMB_PERF_CNT: 0
+    EXPEDITION_PCM_CYL_2_KNK_COMB_PERF_CNT: 0
   response: 7E8046205AD00
 - expected_values:
-    FORD_PCM_CYL_2_KNK_COMB_PERF_CNT: 1
+    EXPEDITION_PCM_CYL_2_KNK_COMB_PERF_CNT: 1
   response: 7E8046205AD01
 - expected_values:
-    FORD_PCM_CYL_2_KNK_COMB_PERF_CNT: 14
+    EXPEDITION_PCM_CYL_2_KNK_COMB_PERF_CNT: 14
   response: 7E8046205AD0E

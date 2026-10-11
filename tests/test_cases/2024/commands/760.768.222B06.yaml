@@ -1,8 +1,8 @@
 command_id: 760.768.222B06
 test_cases:
 - expected_values:
-    FORD_FR_VSS: 0
+    EXPEDITION_FR_VSS: 0
   response: 76804622B0600
 - expected_values:
-    FORD_FR_VSS: 147
+    EXPEDITION_FR_VSS: 147
   response: 76804622B0693

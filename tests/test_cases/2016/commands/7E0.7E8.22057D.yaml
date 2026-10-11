@@ -1,29 +1,29 @@
 command_id: 7E0.7E8.22057D
 test_cases:
 - expected_values:
-    FORD_AAT_ALT: 29
+    EXPEDITION_AAT_ALT: 29
   response: 7E80462057D8A
 - expected_values:
-    FORD_AAT_ALT: 30
+    EXPEDITION_AAT_ALT: 30
   response: 7E80462057D8C
 - expected_values:
-    FORD_AAT_ALT: 31
+    EXPEDITION_AAT_ALT: 31
   response: 7E80462057D8E
 - expected_values:
-    FORD_AAT_ALT: 32
+    EXPEDITION_AAT_ALT: 32
   response: 7E80462057D90
 - expected_values:
-    FORD_AAT_ALT: 33
+    EXPEDITION_AAT_ALT: 33
   response: 7E80462057D92
 - expected_values:
-    FORD_AAT_ALT: 34
+    EXPEDITION_AAT_ALT: 34
   response: 7E80462057D94
 - expected_values:
-    FORD_AAT_ALT: 38
+    EXPEDITION_AAT_ALT: 38
   response: 7E80462057D9C
 - expected_values:
-    FORD_AAT_ALT: 41
+    EXPEDITION_AAT_ALT: 41
   response: 7E80462057DA2
 - expected_values:
-    FORD_AAT_ALT: 42
+    EXPEDITION_AAT_ALT: 42
   response: 7E80462057DA4

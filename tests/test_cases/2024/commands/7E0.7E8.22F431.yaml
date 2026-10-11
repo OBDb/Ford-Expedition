@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F431
 test_cases:
 - expected_values:
-    FORD_DIST_DTC_CLR: 5599
+    EXPEDITION_DIST_DTC_CLR: 5599
   response: 7E80562F43115DF
 - expected_values:
-    FORD_DIST_DTC_CLR: 23807
+    EXPEDITION_DIST_DTC_CLR: 23807
   response: 7E80562F4315CFF
 - expected_values:
-    FORD_DIST_DTC_CLR: 26368
+    EXPEDITION_DIST_DTC_CLR: 26368
   response: 7E80562F4316700
 - expected_values:
-    FORD_DIST_DTC_CLR: 33262
+    EXPEDITION_DIST_DTC_CLR: 33262
   response: 7E80562F43181EE

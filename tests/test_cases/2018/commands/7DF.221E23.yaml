@@ -1,0 +1,5 @@
+command_id: 7DF.221E23
+test_cases:
+- expected_values:
+    EXPEDITION_GEAR_SHFT_7DF: 103
+  response: 7E904621E2367

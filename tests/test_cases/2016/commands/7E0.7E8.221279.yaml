@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221279
 test_cases:
 - expected_values:
-    FORD_IAT_SENS_V: 1.56891
+    EXPEDITION_IAT_SENS_V: 1.56891
   response: '7E8056212790141'
 - expected_values:
-    FORD_IAT_SENS_V: 2.28739
+    EXPEDITION_IAT_SENS_V: 2.28739
   response: 7E80562127901D4

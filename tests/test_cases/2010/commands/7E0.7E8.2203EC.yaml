@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.2203EC
 test_cases:
 - expected_values:
-    FORD_IGN_CORR_CYL1: 0
+    EXPEDITION_IGN_CORR_CYL1: 0
   response: 7E8056203EC0000
 - expected_values:
-    FORD_IGN_CORR_CYL1: 0.91016
+    EXPEDITION_IGN_CORR_CYL1: 0.91016
   response: 7E8056203EC01D2
 - expected_values:
-    FORD_IGN_CORR_CYL1: 1.07422
+    EXPEDITION_IGN_CORR_CYL1: 1.07422
   response: 7E8056203EC0226
 - expected_values:
-    FORD_IGN_CORR_CYL1: 1.875
+    EXPEDITION_IGN_CORR_CYL1: 1.875
   response: 7E8056203EC03C0
 - expected_values:
-    FORD_IGN_CORR_CYL1: -0.25
+    EXPEDITION_IGN_CORR_CYL1: -0.25
   response: 7E8056203ECFF80

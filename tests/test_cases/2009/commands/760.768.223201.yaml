@@ -1,34 +1,26 @@
 command_id: 760.768.223201
 test_cases:
 - expected_values:
-    FORD_STEER_ANG: -85.5
-    FORD_STEER_ANGLE: 756.25
+    EXPEDITION_STEER_ANG: -85.5
   response: '768056232017952'
 - expected_values:
-    FORD_STEER_ANG: -76.5
-    FORD_STEER_ANGLE: 762.5
+    EXPEDITION_STEER_ANG: -76.5
   response: 768056232017A06
 - expected_values:
-    FORD_STEER_ANG: -72
-    FORD_STEER_ANGLE: 762.5
+    EXPEDITION_STEER_ANG: -72
   response: 768056232017A60
 - expected_values:
-    FORD_STEER_ANG: -67.5
-    FORD_STEER_ANGLE: 762.5
+    EXPEDITION_STEER_ANG: -67.5
   response: 768056232017ABA
 - expected_values:
-    FORD_STEER_ANG: -54
-    FORD_STEER_ANGLE: 768.75
+    EXPEDITION_STEER_ANG: -54
   response: 768056232017BC8
 - expected_values:
-    FORD_STEER_ANG: -49.5
-    FORD_STEER_ANGLE: 775
+    EXPEDITION_STEER_ANG: -49.5
   response: 768056232017C22
 - expected_values:
-    FORD_STEER_ANG: -4.5
-    FORD_STEER_ANGLE: 790
+    EXPEDITION_STEER_ANG: -4.5
   response: 768056232017FA6
 - expected_values:
-    FORD_STEER_ANG: 13.5
-    FORD_STEER_ANGLE: -790
+    EXPEDITION_STEER_ANG: 13.5
   response: 76805623201810E
