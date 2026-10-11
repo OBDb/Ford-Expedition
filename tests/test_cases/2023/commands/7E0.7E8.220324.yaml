@@ -1,10 +1,10 @@
 command_id: 7E0.7E8.220324
 test_cases:
 - expected_values:
-    FORD_HPFP_V: 0.64027
+    EXPEDITION_HPFP_V: 0.64027
   response: '7E8056203240083'
 - expected_values:
-    FORD_HPFP_V: 0.826
+    EXPEDITION_HPFP_V: 0.826
   response: |-
     7E80562032400A9
     7E8016A
@@ -22,13 +22,13 @@ test_cases:
     7E8016A
     7E803410579
 - expected_values:
-    FORD_HPFP_V: 1.24633
+    EXPEDITION_HPFP_V: 1.24633
   response: 7E80562032400FF
 - expected_values:
-    FORD_HPFP_V: 1.25122
+    EXPEDITION_HPFP_V: 1.25122
   response: '7E8056203240100'
 - expected_values:
-    FORD_HPFP_V: 1.52004
+    EXPEDITION_HPFP_V: 1.52004
   response: |-
     7E8056203240137
     7E8065003003201F4
@@ -42,5 +42,5 @@ test_cases:
     7E80462F40F51
     7E80462F44645
 - expected_values:
-    FORD_HPFP_V: 2.54643
+    EXPEDITION_HPFP_V: 2.54643
   response: '7E8056203240209'

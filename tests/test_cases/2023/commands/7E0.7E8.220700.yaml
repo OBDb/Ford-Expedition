@@ -1,13 +1,13 @@
 command_id: 7E0.7E8.220700
 test_cases:
 - expected_values:
-    FORD_IAT_FAULT: 0
+    EXPEDITION_IAT_FAULT: 0
   response: '7E80762070000800000'
 - expected_values:
-    FORD_IAT_FAULT: 0
+    EXPEDITION_IAT_FAULT: 0
   response: '7E80762070000820000'
 - expected_values:
-    FORD_IAT_FAULT: 0
+    EXPEDITION_IAT_FAULT: 0
   response: |-
     7E80762070000820000
     7E80762034500000024
@@ -19,5 +19,5 @@ test_cases:
     7E80462F40F54
     7E80462F44644
 - expected_values:
-    FORD_IAT_FAULT: 0
+    EXPEDITION_IAT_FAULT: 0
   response: 7E80762070000C00000

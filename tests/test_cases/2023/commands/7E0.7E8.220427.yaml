@@ -1,10 +1,10 @@
 command_id: 7E0.7E8.220427
 test_cases:
 - expected_values:
-    FORD_BPV_OPEN: 0
+    EXPEDITION_BPV_OPEN: 0
   response: '7E80462042700'
 - expected_values:
-    FORD_BPV_OPEN: 0
+    EXPEDITION_BPV_OPEN: 0
   response: |-
     7E80462042700
     7E8016A
@@ -46,5 +46,5 @@ test_cases:
     7E8016A
     7E803410578
 - expected_values:
-    FORD_BPV_OPEN: 1
+    EXPEDITION_BPV_OPEN: 1
   response: 7E804620427FF

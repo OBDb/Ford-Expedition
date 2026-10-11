@@ -1,26 +1,26 @@
 command_id: 7E0.7E8.2203AF
 test_cases:
 - expected_values:
-    FORD_TRQ_CTRL_REQ: 0
+    EXPEDITION_TRQ_CTRL_REQ: 0
   response: 7E8046203AF00
 - expected_values:
-    FORD_TRQ_CTRL_REQ: 5
+    EXPEDITION_TRQ_CTRL_REQ: 5
   response: 7E8046203AF05
 - expected_values:
-    FORD_TRQ_CTRL_REQ: 6
+    EXPEDITION_TRQ_CTRL_REQ: 6
   response: 7E8046203AF06
 - expected_values:
-    FORD_TRQ_CTRL_REQ: 7
+    EXPEDITION_TRQ_CTRL_REQ: 7
   response: 7E8046203AF07
 - expected_values:
-    FORD_TRQ_CTRL_REQ: 9
+    EXPEDITION_TRQ_CTRL_REQ: 9
   response: 7E8046203AF09
 - expected_values:
-    FORD_TRQ_CTRL_REQ: 16
+    EXPEDITION_TRQ_CTRL_REQ: 16
   response: 7E8046203AF10
 - expected_values:
-    FORD_TRQ_CTRL_REQ: 22
+    EXPEDITION_TRQ_CTRL_REQ: 22
   response: 7E8046203AF16
 - expected_values:
-    FORD_TRQ_CTRL_REQ: 26
+    EXPEDITION_TRQ_CTRL_REQ: 26
   response: 7E8046203AF1A

@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.220318
 test_cases:
 - expected_values:
-    FORD_VCT_INT_ACT: 0
-    FORD_[ECU] VCT intake actual: 0
+    EXPEDITION_VCT_INT_ACT: 0
   response: '7E8056203180000'
 - expected_values:
-    FORD_VCT_INT_ACT: 4079.9375
-    FORD_[ECU] VCT intake actual: 0
+    EXPEDITION_VCT_INT_ACT: -16.0625
   response: 7E805620318FEFF
 - expected_values:
-    FORD_VCT_INT_ACT: 4080.3125
-    FORD_[ECU] VCT intake actual: 0
+    EXPEDITION_VCT_INT_ACT: -15.6875
   response: 7E805620318FF05

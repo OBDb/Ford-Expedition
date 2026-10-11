@@ -1,8 +1,8 @@
 command_id: 720.728.226185
 test_cases:
 - expected_values:
-    FORD_FLI_V2: 49.80392
+    EXPEDITION_FLI_ALT: 49.80392
   response: 728046261857F
 - expected_values:
-    FORD_FLI_V2: 84.70588
+    EXPEDITION_FLI_ALT: 84.70588
   response: 72804626185D8

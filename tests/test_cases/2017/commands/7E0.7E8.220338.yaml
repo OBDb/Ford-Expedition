@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.220338
 test_cases:
 - expected_values:
-    FORD_ETC_TRIM_LEARNED: -0.07812
+    EXPEDITION_ETC_TRIM_LRN: -0.07812
   response: 7E805620338FFD8

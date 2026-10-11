@@ -1,8 +1,8 @@
 command_id: 726.72E.22402A
 test_cases:
 - expected_values:
-    FORD_VEH_BAT_V: 12.15
+    EXPEDITION_VEH_BAT_V: 12.15
   response: 72E0462402A7B
 - expected_values:
-    FORD_VEH_BAT_V: 14.75
+    EXPEDITION_VEH_BAT_V: 14.75
   response: 72E0462402AAF
