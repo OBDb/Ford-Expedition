@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220548
 test_cases:
 - expected_values:
-    EXPEDITION_LPFP_ACT: 51.12697
-  response: 7E80562054802C1
+    EXPEDITION_LPFP_ACT: 50.76437
+  response: 7E80562054802BC
 - expected_values:
     EXPEDITION_LPFP_ACT: 55.76828
   response: '7E8056205480301'

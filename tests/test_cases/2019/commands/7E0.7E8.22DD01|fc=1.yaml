@@ -10,8 +10,8 @@ test_cases:
     EXPEDITION_ODO_7E0: 158464
   response: 7E80662DD01026B00
 - expected_values:
-    EXPEDITION_ODO_7E0: 160522
-  response: 7E80662DD0102730A
+    EXPEDITION_ODO_7E0: 162452
+  response: 7E80662DD01027A94
 - expected_values:
     EXPEDITION_ODO_7E0: 158310
   response: |-
