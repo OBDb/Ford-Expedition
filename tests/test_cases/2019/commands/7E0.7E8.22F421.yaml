@@ -4,5 +4,5 @@ test_cases:
     EXPEDITION_MIL_DIST: 0
   response: 7E80562F4210000
 - expected_values:
-    EXPEDITION_MIL_DIST: 107
-  response: 7E80562F421006B
+    EXPEDITION_MIL_DIST: 154
+  response: 7E80562F421009A
