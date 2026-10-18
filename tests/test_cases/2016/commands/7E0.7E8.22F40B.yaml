@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F40B
 test_cases:
 - expected_values:
-    EXPEDITION_MAP: 3.48093
-  response: 7E80462F40B18
+    EXPEDITION_MAP: 3.04582
+  response: 7E80462F40B15
 - expected_values:
     EXPEDITION_MAP: 15.80924
   response: 7E80462F40B6D

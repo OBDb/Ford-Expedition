@@ -4,9 +4,6 @@ test_cases:
     EXPEDITION_ODO: 170055.9
   response: 7280662404C19F2CF
 - expected_values:
-    EXPEDITION_ODO: 170057.1
-  response: 7280662404C19F2DB
-- expected_values:
     EXPEDITION_ODO: 170060.8
   response: 7280662404C19F300
 - expected_values:
@@ -15,3 +12,6 @@ test_cases:
 - expected_values:
     EXPEDITION_ODO: 170556.9
   response: 7280662404C1A0661
+- expected_values:
+    EXPEDITION_ODO: 171414.9
+  response: 7280662404C1A27E5

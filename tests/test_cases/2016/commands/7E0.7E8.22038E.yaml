@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22038E
 test_cases:
 - expected_values:
-    EXPEDITION_EVAP_V: 1.666
-  response: 7E80562038E0682
+    EXPEDITION_EVAP_V: 1.616
+  response: 7E80562038E0650
 - expected_values:
     EXPEDITION_EVAP_V: 2.046
   response: 7E80562038E07FE

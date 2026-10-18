@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
-    EXPEDITION_FLI: 76.47059
-  response: 7E80462F42FC3
+    EXPEDITION_FLI: 21.17647
+  response: 7E80462F42F36
 - expected_values:
     EXPEDITION_FLI: 96.07843
   response: 7E80462F42FF5

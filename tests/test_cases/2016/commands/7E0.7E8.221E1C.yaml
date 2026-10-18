@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221E1C
 test_cases:
 - expected_values:
-    EXPEDITION_TOT_7E0: 30
-  response: 7E805621E1C01E0
+    EXPEDITION_TOT_7E0: 24.9375
+  response: 7E805621E1C018F
 - expected_values:
     EXPEDITION_TOT_7E0: 31.6875
   response: 7E805621E1C01FB

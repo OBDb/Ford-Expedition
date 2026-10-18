@@ -10,6 +10,12 @@ test_cases:
     EXPEDITION_CL_LC: 0.01172
   response: 7E8056203BD0060
 - expected_values:
+    EXPEDITION_CL_LC: 0.0127
+  response: 7E8056203BD0068
+- expected_values:
+    EXPEDITION_CL_LC: 0.01379
+  response: 7E8056203BD0071
+- expected_values:
     EXPEDITION_CL_LC: -0.01477
   response: 7E8056203BDFF87
 - expected_values:

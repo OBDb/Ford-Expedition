@@ -4,8 +4,8 @@ test_cases:
     EXPEDITION_VCT_INT_DES: 0
   response: 7E8056203BC0000
 - expected_values:
-    EXPEDITION_VCT_INT_DES: -17.0625
-  response: 7E8056203BCFEEF
+    EXPEDITION_VCT_INT_DES: -32.9375
+  response: 7E8056203BCFDF1
 - expected_values:
     EXPEDITION_VCT_INT_DES: -14.75
   response: 7E8056203BCFF14

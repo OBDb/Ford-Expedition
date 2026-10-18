@@ -7,5 +7,5 @@ test_cases:
     EXPEDITION_WGDC: 80.35583
   response: 7E80562046266DB
 - expected_values:
-    EXPEDITION_WGDC: 90.88745
-  response: '7E8056204627456'
+    EXPEDITION_WGDC: 92.25159
+  response: '7E8056204627615'

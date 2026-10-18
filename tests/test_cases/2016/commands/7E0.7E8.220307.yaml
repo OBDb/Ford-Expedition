@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220307
 test_cases:
 - expected_values:
-    EXPEDITION_LPFP_DUTY: 21.76819
-  response: 7E8056203071BDD
+    EXPEDITION_LPFP_DUTY: 21.31958
+  response: 7E8056203071B4A
 - expected_values:
-    EXPEDITION_LPFP_DUTY: 25.15564
-  response: '7E8056203072033'
+    EXPEDITION_LPFP_DUTY: 23.44971
+  response: 7E8056203071E04
 - expected_values:
     EXPEDITION_LPFP_DUTY: 26.75781
   response: '7E8056203072240'

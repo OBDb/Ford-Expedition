@@ -4,8 +4,8 @@ test_cases:
     EXPEDITION_VCT_INT_ACT: 0
   response: '7E8056203180000'
 - expected_values:
-    EXPEDITION_VCT_INT_ACT: -18.6875
-  response: 7E805620318FED5
-- expected_values:
     EXPEDITION_VCT_INT_ACT: -14.9375
   response: 7E805620318FF11
+- expected_values:
+    EXPEDITION_VCT_INT_ACT: -0.1875
+  response: 7E805620318FFFD

@@ -4,11 +4,11 @@ test_cases:
     EXPEDITION_MAP_V: 0.57129
   response: '7E8056203010249'
 - expected_values:
-    EXPEDITION_MAP_V: 0.73242
-  response: 7E80562030102EE
-- expected_values:
     EXPEDITION_MAP_V: 0.75195
   response: '7E8056203010302'
+- expected_values:
+    EXPEDITION_MAP_V: 1.49414
+  response: 7E80562030105FA
 - expected_values:
     EXPEDITION_MAP_V: 2.29492
   response: 7E805620301092E

@@ -4,8 +4,8 @@ test_cases:
     EXPEDITION_LPFP_ACT: 68.67694
   response: 7E80562054803B3
 - expected_values:
-    EXPEDITION_LPFP_ACT: 73.68085
-  response: 7E80562054803F8
+    EXPEDITION_LPFP_ACT: 73.89841
+  response: 7E80562054803FB
 - expected_values:
     EXPEDITION_LPFP_ACT: 74.47858
   response: '7E8056205480403'
