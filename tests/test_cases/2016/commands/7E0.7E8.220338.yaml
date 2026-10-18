@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     EXPEDITION_ETC_TRIM_LRN: 0.07227
   response: '7E8056203380025'
+- expected_values:
+    EXPEDITION_ETC_TRIM_LRN: 0.13477
+  response: '7E8056203380045'
+- expected_values:
+    EXPEDITION_ETC_TRIM_LRN: 0.14062
+  response: '7E8056203380048'
+- expected_values:
+    EXPEDITION_ETC_TRIM_LRN: 0.14258
+  response: '7E8056203380049'

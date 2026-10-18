@@ -7,5 +7,5 @@ test_cases:
     EXPEDITION_VSS_HD: 53.96094
   response: 7E8056215051AFB
 - expected_values:
-    EXPEDITION_VSS_HD: 60.44531
-  response: 7E8056215051E39
+    EXPEDITION_VSS_HD: 69.45312
+  response: 7E80562150522BA

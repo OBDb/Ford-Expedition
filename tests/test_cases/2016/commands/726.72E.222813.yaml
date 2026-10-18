@@ -4,23 +4,8 @@ test_cases:
     EXPEDITION_TP_FL: 29.4
   response: 72E05622813024C
 - expected_values:
-    EXPEDITION_TP_FL: 29.65
-  response: '72E056228130251'
-- expected_values:
-    EXPEDITION_TP_FL: 29.8
-  response: '72E056228130254'
-- expected_values:
-    EXPEDITION_TP_FL: 30.15
-  response: 72E05622813025B
-- expected_values:
-    EXPEDITION_TP_FL: 30.4
-  response: '72E056228130260'
-- expected_values:
-    EXPEDITION_TP_FL: 35.4
-  response: 72E0562281302C4
-- expected_values:
-    EXPEDITION_TP_FL: 35.55
-  response: 72E0562281302C7
+    EXPEDITION_TP_FL: 36.65
+  response: 72E0562281302DD
 - expected_values:
     EXPEDITION_TP_FL: 38.9
   response: 72E05622813030A

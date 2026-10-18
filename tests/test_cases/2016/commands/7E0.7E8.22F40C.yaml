@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F40C
 test_cases:
 - expected_values:
-    EXPEDITION_RPM: 595.5
-  response: 7E80562F40C094E
+    EXPEDITION_RPM: 593.5
+  response: 7E80562F40C0946
 - expected_values:
     EXPEDITION_RPM: 896
   response: 7E80562F40C0E00

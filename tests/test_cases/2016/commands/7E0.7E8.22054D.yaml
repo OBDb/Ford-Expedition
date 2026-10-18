@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22054D
 test_cases:
 - expected_values:
-    EXPEDITION_LPFP_SENS_V: 2.90039
-  response: 7E80562054D0B9A
+    EXPEDITION_LPFP_SENS_V: 2.79297
+  response: 7E80562054D0B2C
 - expected_values:
     EXPEDITION_LPFP_SENS_V: 3.49121
   response: 7E80562054D0DF7

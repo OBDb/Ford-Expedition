@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220461
 test_cases:
 - expected_values:
-    EXPEDITION_CAT: -9.71875
-  response: '7E8056204610792'
+    EXPEDITION_CAT: -19.64062
+  response: '7E8056204610517'
 - expected_values:
     EXPEDITION_CAT: 3.79688
   response: 7E8056204610AF3
