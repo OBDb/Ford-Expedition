@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220429
+test_cases:
+- expected_values:
+    EXPEDITION_FUEL_T_7E0: 52.5625
+  response: 7E8056204290D24
+- expected_values:
+    EXPEDITION_FUEL_T_7E0: 53.53125
+  response: 7E8056204290D62
+- expected_values:
+    EXPEDITION_FUEL_T_7E0: 54.15625
+  response: 7E8056204290D8A
+- expected_values:
+    EXPEDITION_FUEL_T_7E0: 54.48438
+  response: 7E8056204290D9F
