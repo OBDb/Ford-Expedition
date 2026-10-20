@@ -1,0 +1,23 @@
+command_id: 726.72E.224209
+test_cases:
+- expected_values:
+    EXPEDITION_BAT_CURRENT: 2.75
+  response: 72E0762420900000B80
+- expected_values:
+    EXPEDITION_BAT_CURRENT: 43.25
+  response: 72E076242090000AD80
+- expected_values:
+    EXPEDITION_BAT_CURRENT: 47
+  response: 72E076242090000BC80
+- expected_values:
+    EXPEDITION_BAT_CURRENT: 48.25
+  response: 72E076242090000C180
+- expected_values:
+    EXPEDITION_BAT_CURRENT: 51
+  response: 72E076242090000CCC0
+- expected_values:
+    EXPEDITION_BAT_CURRENT: 53.75
+  response: 72E076242090000D780
+- expected_values:
+    EXPEDITION_BAT_CURRENT: 54.25
+  response: 72E076242090000D980
