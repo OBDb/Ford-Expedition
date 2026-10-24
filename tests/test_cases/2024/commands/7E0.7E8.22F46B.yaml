@@ -25,3 +25,13 @@ test_cases:
   response: |-
     7E8100862F46B400000
     7E8212000CCCCCCCCCC
+- expected_values:
+    EXPEDITION_EGR_T_7E0: 1598.4
+  response: |-
+    7E8100862F46B400000
+    7E8212200CCCCCCCCCC
+- expected_values:
+    EXPEDITION_EGR_T_7E0: 1598.4
+  response: |-
+    7E8100862F46B400000
+    7E8212300CCCCCCCCCC
