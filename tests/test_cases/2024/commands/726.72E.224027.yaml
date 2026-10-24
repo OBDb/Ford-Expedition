@@ -4,8 +4,8 @@ test_cases:
     EXPEDITION_BATT_AGE: 390
   response: '72E056240270186'
 - expected_values:
-    EXPEDITION_BATT_AGE: 464
-  response: 72E0562402701D0
-- expected_values:
     EXPEDITION_BATT_AGE: 514
   response: '72E056240270202'
+- expected_values:
+    EXPEDITION_BATT_AGE: 722
+  response: 72E0562402702D2
