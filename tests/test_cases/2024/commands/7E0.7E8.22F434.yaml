@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22F434
+test_cases:
+- expected_values:
+    EXPEDITION_AIR_FUEL_RAT: 0
+  response: 7E80762F43400008000
+- expected_values:
+    EXPEDITION_AIR_FUEL_RAT: 13.22177
+  response: 7E80762F43473997F95
+- expected_values:
+    EXPEDITION_AIR_FUEL_RAT: 13.35759
+  response: 7E80762F43474C97FB1
+- expected_values:
+    EXPEDITION_AIR_FUEL_RAT: 13.99337
+  response: 7E80762F4347A587FE2
+- expected_values:
+    EXPEDITION_AIR_FUEL_RAT: 14.56302
+  response: 7E80762F4347F537FF6
+- expected_values:
+    EXPEDITION_AIR_FUEL_RAT: 14.7118
+  response: 7E80762F43480A07FFE
+- expected_values:
+    EXPEDITION_AIR_FUEL_RAT: 14.75335
+  response: 7E80762F43480FD8014
+- expected_values:
+    EXPEDITION_AIR_FUEL_RAT: 14.83288
+  response: 7E80762F43481AF8003

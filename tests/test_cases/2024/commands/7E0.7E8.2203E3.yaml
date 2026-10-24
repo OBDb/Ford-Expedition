@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2203E3
+test_cases:
+- expected_values:
+    EXPEDITION_PF_DIFF_P_FEEDBACK_V: 1.47038
+  response: 7E8056203E305E1
+- expected_values:
+    EXPEDITION_PF_DIFF_P_FEEDBACK_V: 1.47527
+  response: 7E8056203E305E6
+- expected_values:
+    EXPEDITION_PF_DIFF_P_FEEDBACK_V: 1.48016
+  response: 7E8056203E305EB
+- expected_values:
+    EXPEDITION_PF_DIFF_P_FEEDBACK_V: 1.60228
+  response: 7E8056203E30668
+- expected_values:
+    EXPEDITION_PF_DIFF_P_FEEDBACK_V: 1.62182
+  response: 7E8056203E3067C
+- expected_values:
+    EXPEDITION_PF_DIFF_P_FEEDBACK_V: 1.70486
+  response: 7E8056203E306D1

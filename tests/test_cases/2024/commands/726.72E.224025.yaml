@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     EXPEDITION_BAT_QUIESCENT: 71
   response: 72E05624025085E
+- expected_values:
+    EXPEDITION_BAT_QUIESCENT: 75
+  response: '72E056240250866'

@@ -7,5 +7,5 @@ test_cases:
     EXPEDITION_VCT_EXH_ACT: 31.9375
   response: 7E80562031901FF
 - expected_values:
-    EXPEDITION_VCT_EXH_ACT: -2
-  response: 7E805620319FFE0
+    EXPEDITION_VCT_EXH_ACT: -2.4375
+  response: 7E805620319FFD9
