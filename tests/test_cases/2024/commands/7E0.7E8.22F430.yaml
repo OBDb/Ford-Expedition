@@ -13,5 +13,11 @@ test_cases:
     EXPEDITION_WARMUP_CLR: 134
   response: 7E80462F43086
 - expected_values:
+    EXPEDITION_WARMUP_CLR: 182
+  response: 7E80462F430B6
+- expected_values:
+    EXPEDITION_WARMUP_CLR: 183
+  response: 7E80462F430B7
+- expected_values:
     EXPEDITION_WARMUP_CLR: 255
   response: 7E80462F430FF

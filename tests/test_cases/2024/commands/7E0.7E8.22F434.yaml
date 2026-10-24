@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22F434
+test_cases:
+- expected_values:
+    EXPEDITION_AIR_FUEL_RAT: 0
+  response: 7E80762F43400008000
+- expected_values:
+    EXPEDITION_AIR_FUEL_RAT: 13.22177
+  response: 7E80762F43473997F95
+- expected_values:
+    EXPEDITION_AIR_FUEL_RAT: 14.61976
+  response: 7E80762F4347FD27FFF
+- expected_values:
+    EXPEDITION_AIR_FUEL_RAT: 14.75335
+  response: 7E80762F43480FD8014
+- expected_values:
+    EXPEDITION_AIR_FUEL_RAT: 14.87711
+  response: 7E80762F43482128004

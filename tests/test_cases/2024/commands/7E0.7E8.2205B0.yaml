@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     EXPEDITION_PCM_CYL_5_KNK_COMB_PERF_CNT: 5
   response: 7E8046205B005
+- expected_values:
+    EXPEDITION_PCM_CYL_5_KNK_COMB_PERF_CNT: 6
+  response: 7E8046205B006

@@ -1,0 +1,23 @@
+command_id: 730.22330C
+test_cases:
+- expected_values:
+    EXPEDITION_STEER_SHFT_TQ: -2.3
+  response: 7380462330C68
+- expected_values:
+    EXPEDITION_STEER_SHFT_TQ: -2.2
+  response: 7380462330C69
+- expected_values:
+    EXPEDITION_STEER_SHFT_TQ: -1
+  response: 7380462330C75
+- expected_values:
+    EXPEDITION_STEER_SHFT_TQ: -0.9
+  response: 7380462330C76
+- expected_values:
+    EXPEDITION_STEER_SHFT_TQ: -0.4
+  response: 7380462330C7B
+- expected_values:
+    EXPEDITION_STEER_SHFT_TQ: -0.2
+  response: 7380462330C7D
+- expected_values:
+    EXPEDITION_STEER_SHFT_TQ: 2.8
+  response: 7380462330C9B

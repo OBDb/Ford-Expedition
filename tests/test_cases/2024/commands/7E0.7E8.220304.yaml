@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220304
+test_cases:
+- expected_values:
+    EXPEDITION_CMD_GEN_V: 13.66107
+  response: 7E8056203046D5A
+- expected_values:
+    EXPEDITION_CMD_GEN_V: 13.74159
+  response: 7E8056203046DFF
+- expected_values:
+    EXPEDITION_CMD_GEN_V: 13.75526
+  response: 7E8056203046E1B
