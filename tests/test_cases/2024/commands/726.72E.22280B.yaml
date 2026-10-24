@@ -6,6 +6,11 @@ test_cases:
     72E100C62280B63318F
     72E21E002BC4D4632CC
 - expected_values:
+    EXPEDITION_TYRE_T: 47
+  response: |-
+    72E100C62280B63318F
+    72E21E002DA574642CC
+- expected_values:
     EXPEDITION_TYRE_T: 39
   response: |-
     72E100C62280B633190

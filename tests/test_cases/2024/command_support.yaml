@@ -209,6 +209,8 @@ supported_commands_by_ecu:
   - 7E0.7E8.22FD18:EXPEDITION_AC_P_7E0
 unsupported_commands_by_ecu:
   "6F5":
+  - 6F5.224899
+  - 6F5.22489D
   - 6F5.6FD.224899
   - 6F5.6FD.22489D
   "703":

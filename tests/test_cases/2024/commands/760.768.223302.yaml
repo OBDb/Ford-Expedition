@@ -13,6 +13,9 @@ test_cases:
     EXPEDITION_BCM_STEER_ANG_ACT: -5.5
   response: '768056233021E41'
 - expected_values:
+    EXPEDITION_BCM_STEER_ANG_ACT: -4.6
+  response: 768056233021E4A
+- expected_values:
     EXPEDITION_BCM_STEER_ANG_ACT: -4.5
   response: 768056233021E4B
 - expected_values:
