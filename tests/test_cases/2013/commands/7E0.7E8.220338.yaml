@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220338
+test_cases:
+- expected_values:
+    EXPEDITION_ETC_TRIM_LRN: 1.8457
+  response: 7E80562033803B1

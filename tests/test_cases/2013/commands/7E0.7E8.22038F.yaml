@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22038F
+test_cases:
+- expected_values:
+    EXPEDITION_ECT: 86.40625
+  response: 7E80562038F159A

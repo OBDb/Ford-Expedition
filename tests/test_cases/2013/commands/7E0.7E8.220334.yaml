@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220334
+test_cases:
+- expected_values:
+    EXPEDITION_PCM_CYL_HEAD_T_CORR: 90.65625
+  response: 7E80562033416AA
