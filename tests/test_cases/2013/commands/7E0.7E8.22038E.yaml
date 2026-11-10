@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22038E
+test_cases:
+- expected_values:
+    EXPEDITION_EVAP_V: 2.732
+  response: 7E80562038E0AAC

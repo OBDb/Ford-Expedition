@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221E63
+test_cases:
+- expected_values:
+    EXPEDITION_AWD_CLU_CMD_CTRL_SIG: 90.98039
+  response: 7E804621E63E8
