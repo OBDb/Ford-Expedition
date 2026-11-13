@@ -310,7 +310,7 @@
   "signals": [
     {"id": "EXPEDITION_EOP", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Engine oil pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0301"}, "freq": 0.25, "dbgfilter": { "to": 2015, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0301"}, "freq": 0.25, "dbgfilter": { "to": 2012, "years": [2014, 2015], "from": 2026 },
   "signals": [
     {"id": "EXPEDITION_MAP_V", "path": "Engine", "fmt": { "len": 16, "max": 5, "div": 1024, "unit": "volts" }, "name": "Manifold pressure sensor voltage", "description": "Typically varies from 1 volt at idle to 5 volts during wide open throttle."}
   ]},
@@ -382,7 +382,7 @@
   "signals": [
     {"id": "EXPEDITION_PCM_MISF_EVENTS_LATEST_CYC", "path": "Engine", "fmt": { "len": 32, "max": 4294967295, "unit": "scalar" }, "name": "Misfire events, latest cycle"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0353"}, "freq": 5, "dbgfilter": { "to": 2008, "years": [2011, 2012, 2013, 2014, 2015], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0353"}, "freq": 5, "dbgfilter": { "to": 2008, "years": [2011, 2012, 2014, 2015], "from": 2026 },
   "signals": [
     {"id": "EXPEDITION_BARO", "path": "Engine", "fmt": { "len": 16, "max": 20, "min": 8, "mul": 615, "div": 16963, "unit": "psi" }, "name": "Barometric pressure"}
   ]},
@@ -414,7 +414,7 @@
   "signals": [
     {"id": "EXPEDITION_PCM_MISF_ACCEL_CYL3_NORM", "path": "Engine", "fmt": { "len": 8, "max": 1.9843, "min": -2, "div": 64, "sign": true, "unit": "scalar" }, "name": "Misfire acceleration, cylinder 3"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "038B"}, "freq": 1, "dbgfilter": { "to": 2008, "years": [2011, 2012, 2013, 2014, 2015, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "038B"}, "freq": 1, "dbgfilter": { "to": 2008, "years": [2011, 2012, 2014, 2015, 2022], "from": 2026 },
   "signals": [
     {"id": "EXPEDITION_PCM_MISF_ACCEL_CYL4_NORM", "path": "Engine", "fmt": { "len": 8, "max": 1.9843, "min": -2, "div": 64, "sign": true, "unit": "scalar" }, "name": "Misfire acceleration, cylinder 4"}
   ]},
@@ -907,7 +907,7 @@
   "signals": [
     {"id": "EXPEDITION_INJ_CTRL_P", "path": "Engine", "fmt": { "len": 16, "max": 37354, "mul": 57, "div": 100, "unit": "psi" }, "name": "Injection control pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1505"}, "freq": 0.25, "dbgfilter": { "to": 2008, "years": [2011, 2012, 2013, 2014, 2015, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1505"}, "freq": 0.25, "dbgfilter": { "to": 2008, "years": [2011, 2012, 2014, 2015, 2022], "from": 2026 },
   "signals": [
     {"id": "EXPEDITION_VSS_HD", "path": "Movement", "fmt": { "len": 16, "max": 200, "div": 128, "unit": "kilometersPerHour" }, "name": "Vehicle speed, high resolution"}
   ]},
@@ -1090,7 +1090,7 @@
   "signals": [
     {"id": "EXPEDITION_DTC_CNT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "DTC counter"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "fcm1": true, "cmd": {"22": "DD01"}, "freq": 5, "dbgfilter": { "to": 2015, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "fcm1": true, "cmd": {"22": "DD01"}, "freq": 5, "dbgfilter": { "to": 2012, "years": [2014, 2015], "from": 2026 },
   "signals": [
     {"id": "EXPEDITION_ODO_7E0", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
@@ -1110,7 +1110,7 @@
   "signals": [
     {"id": "EXPEDITION_MAP", "path": "Engine", "fmt": { "len": 8, "max": 36, "mul": 10000, "div": 68947, "unit": "psi" }, "name": "Manifold pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40C"}, "freq": 0.1, "dbgfilter": { "to": 2008, "years": [2011, 2012, 2013, 2014, 2015, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40C"}, "freq": 0.1, "dbgfilter": { "to": 2008, "years": [2011, 2012, 2014, 2015, 2022], "from": 2026 },
   "signals": [
     {"id": "EXPEDITION_RPM", "path": "Engine", "fmt": { "len": 16, "max": 16383.75, "div": 4, "unit": "rpm" }, "name": "Engine speed"}
   ]},
@@ -1142,7 +1142,7 @@
   "signals": [
     {"id": "EXPEDITION_WARMUP_CLR", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Warm-ups since DTC clear"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F431"}, "freq": 60, "dbgfilter": { "to": 2008, "years": [2011, 2012, 2013, 2014, 2015, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F431"}, "freq": 60, "dbgfilter": { "to": 2008, "years": [2011, 2012, 2014, 2015, 2022], "from": 2026 },
   "signals": [
     {"id": "EXPEDITION_DIST_DTC_CLR", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Distance since DTC clear", "suggestedMetric": "distanceSinceDTCsCleared"}
   ]},

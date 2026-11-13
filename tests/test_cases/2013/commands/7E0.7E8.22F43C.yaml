@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.22F43C
 test_cases:
 - expected_values:
+    EXPEDITION_CAT_TEMP: 422.6
+  response: 7E80562F43C1212
+- expected_values:
+    EXPEDITION_CAT_TEMP: 438.2
+  response: 7E80562F43C12AE
+- expected_values:
     EXPEDITION_CAT_TEMP: 447.2
   response: 7E80562F43C1308

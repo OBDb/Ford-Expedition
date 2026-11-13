@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     EXPEDITION_PCM_CYL_HEAD_T_CORR: 90.65625
   response: 7E80562033416AA
+- expected_values:
+    EXPEDITION_PCM_CYL_HEAD_T_CORR: 90.95312
+  response: 7E80562033416BD
+- expected_values:
+    EXPEDITION_PCM_CYL_HEAD_T_CORR: 90.96875
+  response: 7E80562033416BE

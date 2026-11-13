@@ -1,6 +1,15 @@
 command_id: 7E0.7E8.229800
 test_cases:
 - expected_values:
+    EXPEDITION_AC_P_SENS_V: 1.23047
+  response: 7E80562980004EC
+- expected_values:
+    EXPEDITION_AC_P_SENS_V: 1.2793
+  response: 7E805629800051E
+- expected_values:
+    EXPEDITION_AC_P_SENS_V: 1.36719
+  response: '7E8056298000578'
+- expected_values:
     EXPEDITION_AC_P_SENS_V: 1.41113
   response: 7E80562980005A5
 - expected_values:

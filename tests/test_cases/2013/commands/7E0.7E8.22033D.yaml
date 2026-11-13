@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     EXPEDITION_MASS_AIRFLOW_SENS: 777
   response: 7E80562033D0C24
+- expected_values:
+    EXPEDITION_MASS_AIRFLOW_SENS: 778
+  response: 7E80562033D0C28
+- expected_values:
+    EXPEDITION_MASS_AIRFLOW_SENS: 778.75
+  response: 7E80562033D0C2B
+- expected_values:
+    EXPEDITION_MASS_AIRFLOW_SENS: 780
+  response: 7E80562033D0C30
