@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     EXPEDITION_ECT: 86.40625
   response: 7E80562038F159A
+- expected_values:
+    EXPEDITION_ECT: 86.51562
+  response: 7E80562038F15A1
+- expected_values:
+    EXPEDITION_ECT: 86.71875
+  response: 7E80562038F15AE
