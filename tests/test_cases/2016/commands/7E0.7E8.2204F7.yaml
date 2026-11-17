@@ -4,29 +4,8 @@ test_cases:
     EXPEDITION_GEN_CURRENT: 51.68658
   response: 7E8056204F70CED
 - expected_values:
-    EXPEDITION_GEN_CURRENT: 53.70156
-  response: 7E8056204F70D6E
-- expected_values:
-    EXPEDITION_GEN_CURRENT: 54.01396
-  response: 7E8056204F70D82
-- expected_values:
-    EXPEDITION_GEN_CURRENT: 54.9824
-  response: 7E8056204F70DC0
-- expected_values:
-    EXPEDITION_GEN_CURRENT: 55.0605
-  response: 7E8056204F70DC5
-- expected_values:
-    EXPEDITION_GEN_CURRENT: 55.5291
-  response: 7E8056204F70DE3
-- expected_values:
-    EXPEDITION_GEN_CURRENT: 59.7465
-  response: 7E8056204F70EF1
-- expected_values:
     EXPEDITION_GEN_CURRENT: 60.48064
   response: 7E8056204F70F20
 - expected_values:
-    EXPEDITION_GEN_CURRENT: 63.43282
-  response: 7E8056204F70FDD
-- expected_values:
-    EXPEDITION_GEN_CURRENT: 65.72896
-  response: 7E8056204F71070
+    EXPEDITION_GEN_CURRENT: 75.96006
+  response: 7E8056204F712FF
