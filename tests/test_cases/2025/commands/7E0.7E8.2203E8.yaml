@@ -10,11 +10,11 @@ test_cases:
     EXPEDITION_OAR: 0.17615
   response: 7E8056203E80B46
 - expected_values:
-    EXPEDITION_OAR: 0
+    EXPEDITION_OAR: -0.06506
   response: 7E8056203E8FBD6
 - expected_values:
-    EXPEDITION_OAR: 0
+    EXPEDITION_OAR: -0.05438
   response: 7E8056203E8FC85
 - expected_values:
-    EXPEDITION_OAR: 0
+    EXPEDITION_OAR: -0.00433
   response: 7E8056203E8FFB9

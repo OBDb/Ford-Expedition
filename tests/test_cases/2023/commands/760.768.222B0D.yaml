@@ -4,5 +4,5 @@ test_cases:
     EXPEDITION_BRK_FL_P: 0
   response: 76805622B0D0000
 - expected_values:
-    EXPEDITION_BRK_FL_P: 0
+    EXPEDITION_BRK_FL_P: 89
   response: 76805622B0D0059
