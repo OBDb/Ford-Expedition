@@ -1,32 +1,11 @@
 command_id: 7E0.7E8.220378
 test_cases:
 - expected_values:
-    EXPEDITION_GEN_CTRL: 23.36306
-  response: 7E8056203781DE7
-- expected_values:
-    EXPEDITION_GEN_CTRL: 25.44758
-  response: '7E8056203782092'
+    EXPEDITION_GEN_CTRL: 0
+  response: '7E8056203780000'
 - expected_values:
     EXPEDITION_GEN_CTRL: 25.73141
   response: 7E80562037820EF
 - expected_values:
-    EXPEDITION_GEN_CTRL: 28.32866
-  response: '7E8056203782442'
-- expected_values:
-    EXPEDITION_GEN_CTRL: 29.3694
-  response: '7E8056203782597'
-- expected_values:
-    EXPEDITION_GEN_CTRL: 29.86992
-  response: 7E805620378263B
-- expected_values:
-    EXPEDITION_GEN_CTRL: 30.15376
-  response: '7E8056203782698'
-- expected_values:
-    EXPEDITION_GEN_CTRL: 30.15681
-  response: '7E8056203782699'
-- expected_values:
-    EXPEDITION_GEN_CTRL: 33.52012
-  response: 7E8056203782AE7
-- expected_values:
-    EXPEDITION_GEN_CTRL: 37.1642
-  response: 7E8056203782F91
+    EXPEDITION_GEN_CTRL: 45.75253
+  response: 7E8056203783A8F

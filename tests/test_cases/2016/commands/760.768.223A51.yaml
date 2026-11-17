@@ -7,6 +7,9 @@ test_cases:
     EXPEDITION_ABS_LATERAL_ACCEL: 0.08
   response: 76805623A510004
 - expected_values:
+    EXPEDITION_ABS_LATERAL_ACCEL: 0.1
+  response: 76805623A510005
+- expected_values:
     EXPEDITION_ABS_LATERAL_ACCEL: 0.12
   response: 76805623A510006
 - expected_values:
