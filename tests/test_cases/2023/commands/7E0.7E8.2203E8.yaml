@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2203E8
 test_cases:
 - expected_values:
-    EXPEDITION_OAR: 0
+    EXPEDITION_OAR: -1
   response: 7E8056203E8C000
 - expected_values:
-    EXPEDITION_OAR: 0
+    EXPEDITION_OAR: -0.78137
   response: 7E8056203E8CDFE
 - expected_values:
-    EXPEDITION_OAR: 0
+    EXPEDITION_OAR: -0.08649
   response: 7E8056203E8FA77
