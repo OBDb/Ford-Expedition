@@ -1,0 +1,23 @@
+command_id: 760.768.223A51
+test_cases:
+- expected_values:
+    EXPEDITION_ABS_LATERAL_ACCEL: 0
+  response: 76805623A510000
+- expected_values:
+    EXPEDITION_ABS_LATERAL_ACCEL: 0.08
+  response: 76805623A510004
+- expected_values:
+    EXPEDITION_ABS_LATERAL_ACCEL: 0.12
+  response: 76805623A510006
+- expected_values:
+    EXPEDITION_ABS_LATERAL_ACCEL: 0.24
+  response: 76805623A51000C
+- expected_values:
+    EXPEDITION_ABS_LATERAL_ACCEL: 0.3
+  response: 76805623A51000F
+- expected_values:
+    EXPEDITION_ABS_LATERAL_ACCEL: 1310.6
+  response: 76805623A51FFFA
+- expected_values:
+    EXPEDITION_ABS_LATERAL_ACCEL: 1310.68
+  response: 76805623A51FFFE
