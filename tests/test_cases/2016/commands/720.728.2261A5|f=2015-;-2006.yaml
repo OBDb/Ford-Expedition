@@ -1,4 +1,4 @@
-command_id: 720.728.2261A5
+command_id: 720.728.2261A5|f=2015-;-2006
 test_cases:
 - expected_values:
     EXPEDITION_TPMS_WARN: 0
