@@ -1,0 +1,23 @@
+command_id: 726.72E.22423C
+test_cases:
+- expected_values:
+    EXPEDITION_VEH_BAT_B_CURRENT: 13.5625
+  response: 72E0562423C01B2
+- expected_values:
+    EXPEDITION_VEH_BAT_B_CURRENT: 13.75
+  response: 72E0562423C01B8
+- expected_values:
+    EXPEDITION_VEH_BAT_B_CURRENT: 13.84375
+  response: 72E0562423C01BB
+- expected_values:
+    EXPEDITION_VEH_BAT_B_CURRENT: 13.90625
+  response: 72E0562423C01BD
+- expected_values:
+    EXPEDITION_VEH_BAT_B_CURRENT: 14
+  response: 72E0562423C01C0
+- expected_values:
+    EXPEDITION_VEH_BAT_B_CURRENT: 15.15625
+  response: 72E0562423C01E5
+- expected_values:
+    EXPEDITION_VEH_BAT_B_CURRENT: -15.65625
+  response: 72E0562423CFE0B

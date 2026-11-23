@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22DD01|fc=1
 test_cases:
 - expected_values:
-    EXPEDITION_ODO_7E0: 38934
-  response: 7E80662DD01009816
+    EXPEDITION_ODO_7E0: 30928
+  response: 7E80662DD010078D0
 - expected_values:
-    EXPEDITION_ODO_7E0: 39366
-  response: 7E80662DD010099C6
+    EXPEDITION_ODO_7E0: 30975
+  response: 7E80662DD010078FF
 - expected_values:
-    EXPEDITION_ODO_7E0: 39425
-  response: 7E80662DD01009A01
+    EXPEDITION_ODO_7E0: 30976
+  response: 7E80662DD01007900
 - expected_values:
     EXPEDITION_ODO_7E0: 42270
   response: 7E80662DD0100A51E

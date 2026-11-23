@@ -7,8 +7,8 @@ test_cases:
     EXPEDITION_EVAP_V: 1.536
   response: 7E80562038E0600
 - expected_values:
-    EXPEDITION_EVAP_V: 2.302
-  response: 7E80562038E08FE
+    EXPEDITION_EVAP_V: 1.791
+  response: 7E80562038E06FF
 - expected_values:
-    EXPEDITION_EVAP_V: 2.572
-  response: 7E80562038E0A0C
+    EXPEDITION_EVAP_V: 2.562
+  response: 7E80562038E0A02

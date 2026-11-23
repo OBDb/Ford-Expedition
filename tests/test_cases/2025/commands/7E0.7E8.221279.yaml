@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     EXPEDITION_IAT_SENS_V: 1.25611
   response: '7E8056212790101'
+- expected_values:
+    EXPEDITION_IAT_SENS_V: 2.54154
+  response: '7E8056212790208'

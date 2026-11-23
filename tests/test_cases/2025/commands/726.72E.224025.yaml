@@ -1,0 +1,8 @@
+command_id: 726.72E.224025
+test_cases:
+- expected_values:
+    EXPEDITION_BAT_QUIESCENT: 81
+  response: '72E056240250872'
+- expected_values:
+    EXPEDITION_BAT_QUIESCENT: 89
+  response: '72E056240250882'

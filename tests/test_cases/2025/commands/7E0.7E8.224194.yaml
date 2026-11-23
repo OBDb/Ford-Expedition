@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.224194
 test_cases:
 - expected_values:
-    EXPEDITION_DTE: 220
-  response: '7E8056241940898'
+    EXPEDITION_DTE: 90.6
+  response: 7E805624194038A
+- expected_values:
+    EXPEDITION_DTE: 102.3
+  response: 7E80562419403FF
 - expected_values:
     EXPEDITION_DTE: 460.9
   response: '7E8056241941201'
-- expected_values:
-    EXPEDITION_DTE: 614.2
-  response: 7E80562419417FE
 - expected_values:
     EXPEDITION_DTE: 794.7
   response: 7E8056241941F0B

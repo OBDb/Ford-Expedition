@@ -4,8 +4,8 @@ test_cases:
     EXPEDITION_VCT_INT_ERR: 0
   response: 7E80562031A0000
 - expected_values:
-    EXPEDITION_VCT_INT_ERR: -8.1875
-  response: 7E80562031AFF7D
+    EXPEDITION_VCT_INT_ERR: -10.625
+  response: 7E80562031AFF56
 - expected_values:
     EXPEDITION_VCT_INT_ERR: -0.0625
   response: 7E80562031AFFFF
