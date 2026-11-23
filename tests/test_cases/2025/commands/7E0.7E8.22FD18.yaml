@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     EXPEDITION_AC_P_7E0: 0
   response: 7E80762FD1800008A7F
+- expected_values:
+    EXPEDITION_AC_P_7E0: 0
+  response: 7E80762FD1800008D14

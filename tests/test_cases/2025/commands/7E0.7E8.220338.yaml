@@ -4,8 +4,8 @@ test_cases:
     EXPEDITION_ETC_TRIM_LRN: 0.03906
   response: '7E8056203380014'
 - expected_values:
-    EXPEDITION_ETC_TRIM_LRN: -0.03516
-  response: 7E805620338FFEE
+    EXPEDITION_ETC_TRIM_LRN: -0.04492
+  response: 7E805620338FFE9
 - expected_values:
     EXPEDITION_ETC_TRIM_LRN: -0.00586
   response: 7E805620338FFFD

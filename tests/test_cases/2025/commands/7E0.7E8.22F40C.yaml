@@ -7,5 +7,5 @@ test_cases:
     EXPEDITION_RPM: 575.75
   response: 7E80562F40C08FF
 - expected_values:
-    EXPEDITION_RPM: 2709.25
-  response: 7E80562F40C2A55
+    EXPEDITION_RPM: 2899.5
+  response: 7E80562F40C2D4E

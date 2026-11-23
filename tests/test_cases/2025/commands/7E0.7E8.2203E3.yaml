@@ -13,5 +13,17 @@ test_cases:
     EXPEDITION_PF_DIFF_P_FEEDBACK_V: 1.4997
   response: 7E8056203E305FF
 - expected_values:
+    EXPEDITION_PF_DIFF_P_FEEDBACK_V: 1.50458
+  response: 7E8056203E30604
+- expected_values:
+    EXPEDITION_PF_DIFF_P_FEEDBACK_V: 1.51435
+  response: 7E8056203E3060E
+- expected_values:
+    EXPEDITION_PF_DIFF_P_FEEDBACK_V: 1.53389
+  response: 7E8056203E30622
+- expected_values:
+    EXPEDITION_PF_DIFF_P_FEEDBACK_V: 1.53878
+  response: 7E8056203E30627
+- expected_values:
     EXPEDITION_PF_DIFF_P_FEEDBACK_V: 1.57786
   response: 7E8056203E3064F
