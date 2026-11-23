@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     EXPEDITION_NORM_CUM_CHG_IGN_ON: 34.5
   response: 72E0562401E0159
+- expected_values:
+    EXPEDITION_NORM_CUM_CHG_IGN_ON: 34.6
+  response: 72E0562401E015A
+- expected_values:
+    EXPEDITION_NORM_CUM_CHG_IGN_ON: 34.8
+  response: 72E0562401E015C

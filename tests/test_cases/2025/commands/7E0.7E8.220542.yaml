@@ -15,3 +15,18 @@ test_cases:
 - expected_values:
     EXPEDITION_DIST_SINCE_OIL: 269
   response: 7E805620542010D
+- expected_values:
+    EXPEDITION_DIST_SINCE_OIL: 577
+  response: '7E8056205420241'
+- expected_values:
+    EXPEDITION_DIST_SINCE_OIL: 579
+  response: '7E8056205420243'
+- expected_values:
+    EXPEDITION_DIST_SINCE_OIL: 580
+  response: '7E8056205420244'
+- expected_values:
+    EXPEDITION_DIST_SINCE_OIL: 581
+  response: '7E8056205420245'
+- expected_values:
+    EXPEDITION_DIST_SINCE_OIL: 582
+  response: '7E8056205420246'

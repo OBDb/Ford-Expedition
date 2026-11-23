@@ -4,17 +4,5 @@ test_cases:
     EXPEDITION_CYL_HEAD_T: 15
   response: 7E80462051D37
 - expected_values:
-    EXPEDITION_CYL_HEAD_T: 18
-  response: 7E80462051D3A
-- expected_values:
-    EXPEDITION_CYL_HEAD_T: 31
-  response: 7E80462051D47
-- expected_values:
-    EXPEDITION_CYL_HEAD_T: 40
-  response: 7E80462051D50
-- expected_values:
-    EXPEDITION_CYL_HEAD_T: 43
-  response: 7E80462051D53
-- expected_values:
-    EXPEDITION_CYL_HEAD_T: 46
-  response: 7E80462051D56
+    EXPEDITION_CYL_HEAD_T: 69
+  response: 7E80462051D6D

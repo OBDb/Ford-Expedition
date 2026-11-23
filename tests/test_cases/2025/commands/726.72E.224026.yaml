@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     EXPEDITION_NORM_CUM_DCHG_BAT_OFF: 18.9
   response: 72E0562402600BD
+- expected_values:
+    EXPEDITION_NORM_CUM_DCHG_BAT_OFF: 19
+  response: 72E0562402600BE
+- expected_values:
+    EXPEDITION_NORM_CUM_DCHG_BAT_OFF: 19.1
+  response: 72E0562402600BF

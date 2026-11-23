@@ -4,11 +4,17 @@ test_cases:
     EXPEDITION_YAW_RATE_SIG: 0
   response: 76805622B0B0000
 - expected_values:
+    EXPEDITION_YAW_RATE_SIG: 0.2
+  response: 76805622B0B0001
+- expected_values:
     EXPEDITION_YAW_RATE_SIG: 0.4
   response: 76805622B0B0002
 - expected_values:
     EXPEDITION_YAW_RATE_SIG: 0.6
   response: 76805622B0B0003
+- expected_values:
+    EXPEDITION_YAW_RATE_SIG: 7.8
+  response: 76805622B0B0027
 - expected_values:
     EXPEDITION_YAW_RATE_SIG: -0.6
   response: 76805622B0BFFFD
