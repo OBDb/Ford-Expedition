@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22030F
 test_cases:
 - expected_values:
-    EXPEDITION_CL: 0.76486
-  response: 7E80562030F61E7
+    EXPEDITION_CL: 0.71591
+  response: 7E80562030F5BA3
 - expected_values:
     EXPEDITION_CL: 0.86716
   response: 7E80562030F6EFF
 - expected_values:
-    EXPEDITION_CL: 0.98441
-  response: 7E80562030F7E01
+    EXPEDITION_CL: 1
+  response: 7E80562030F8000
 - expected_values:
-    EXPEDITION_CL: 1.16443
-  response: 7E80562030F950C
+    EXPEDITION_CL: 1.31183
+  response: 7E80562030FA7EA

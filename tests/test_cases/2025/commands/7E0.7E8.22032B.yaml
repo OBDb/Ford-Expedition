@@ -4,5 +4,5 @@ test_cases:
     EXPEDITION_ACC_POS: 0
   response: 7E80462032B00
 - expected_values:
-    EXPEDITION_ACC_POS: 41.5
-  response: 7E80462032B53
+    EXPEDITION_ACC_POS: 51
+  response: 7E80462032B66

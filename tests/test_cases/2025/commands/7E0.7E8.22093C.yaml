@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22093C
 test_cases:
 - expected_values:
-    EXPEDITION_ETC_ANG_ACT: 1.44922
-  response: 7E80562093C02E6
+    EXPEDITION_ETC_ANG_ACT: 0.8125
+  response: 7E80562093C01A0
 - expected_values:
-    EXPEDITION_ETC_ANG_ACT: 3.49805
-  response: 7E80562093C06FF
+    EXPEDITION_ETC_ANG_ACT: 1.99805
+  response: 7E80562093C03FF
 - expected_values:
     EXPEDITION_ETC_ANG_ACT: 3.5
   response: 7E80562093C0700
 - expected_values:
-    EXPEDITION_ETC_ANG_ACT: 68.49805
-  response: 7E80562093C88FF
+    EXPEDITION_ETC_ANG_ACT: 77.98047
+  response: 7E80562093C9BF6

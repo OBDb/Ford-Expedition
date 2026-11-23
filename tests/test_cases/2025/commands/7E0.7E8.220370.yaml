@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.220370
+test_cases:
+- expected_values:
+    EXPEDITION_MAP_HIRES: 45.25
+  response: 7E80562037000B5
+- expected_values:
+    EXPEDITION_MAP_HIRES: 53
+  response: 7E80562037000D4
+- expected_values:
+    EXPEDITION_MAP_HIRES: 84
+  response: '7E8056203700150'
+- expected_values:
+    EXPEDITION_MAP_HIRES: 98
+  response: '7E8056203700188'
+- expected_values:
+    EXPEDITION_MAP_HIRES: 102.5
+  response: 7E805620370019A

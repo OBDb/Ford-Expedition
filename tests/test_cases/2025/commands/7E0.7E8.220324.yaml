@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.220324
 test_cases:
 - expected_values:
-    EXPEDITION_HPFP_V: 0.80645
-  response: 7E80562032400A5
+    EXPEDITION_HPFP_V: 0.57185
+  response: '7E8056203240075'
 - expected_values:
     EXPEDITION_HPFP_V: 1.24145
   response: 7E80562032400FE
 - expected_values:
-    EXPEDITION_HPFP_V: 1.25611
-  response: '7E8056203240101'
+    EXPEDITION_HPFP_V: 2.50244
+  response: '7E8056203240200'
 - expected_values:
     EXPEDITION_HPFP_V: 3.79765
   response: '7E8056203240309'

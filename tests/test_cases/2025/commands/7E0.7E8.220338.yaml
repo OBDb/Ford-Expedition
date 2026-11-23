@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.220338
 test_cases:
 - expected_values:
-    EXPEDITION_ETC_TRIM_LRN: 0.18359
-  response: 7E805620338005E
+    EXPEDITION_ETC_TRIM_LRN: 0.03906
+  response: '7E8056203380014'
 - expected_values:
-    EXPEDITION_ETC_TRIM_LRN: 0.32422
-  response: 7E80562033800A6
+    EXPEDITION_ETC_TRIM_LRN: -0.03516
+  response: 7E805620338FFEE
+- expected_values:
+    EXPEDITION_ETC_TRIM_LRN: -0.00586
+  response: 7E805620338FFFD

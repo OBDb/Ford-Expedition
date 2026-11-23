@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.220542
+test_cases:
+- expected_values:
+    EXPEDITION_DIST_SINCE_OIL: 265
+  response: '7E8056205420109'
+- expected_values:
+    EXPEDITION_DIST_SINCE_OIL: 266
+  response: 7E805620542010A
+- expected_values:
+    EXPEDITION_DIST_SINCE_OIL: 267
+  response: 7E805620542010B
+- expected_values:
+    EXPEDITION_DIST_SINCE_OIL: 268
+  response: 7E805620542010C
+- expected_values:
+    EXPEDITION_DIST_SINCE_OIL: 269
+  response: 7E805620542010D

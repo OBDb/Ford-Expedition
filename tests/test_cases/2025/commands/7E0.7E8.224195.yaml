@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.224195
 test_cases:
 - expected_values:
-    EXPEDITION_DTE_DISP: 220.2
-  response: 7E805624195089A
+    EXPEDITION_DTE_DISP: 91.5
+  response: '7E8056241950393'
 - expected_values:
-    EXPEDITION_DTE_DISP: 281.7
-  response: 7E8056241950B01
+    EXPEDITION_DTE_DISP: 102.3
+  response: 7E80562419503FF
 - expected_values:
-    EXPEDITION_DTE_DISP: 716.1
-  response: 7E8056241951BF9
+    EXPEDITION_DTE_DISP: 179.3
+  response: '7E8056241950701'
 - expected_values:
     EXPEDITION_DTE_DISP: 795
   response: 7E8056241951F0E

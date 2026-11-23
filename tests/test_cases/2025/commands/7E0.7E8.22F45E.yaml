@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22F45E
+test_cases:
+- expected_values:
+    EXPEDITION_ENG_FUEL_RATE: 1.75
+  response: 7E80562F45E0023
+- expected_values:
+    EXPEDITION_ENG_FUEL_RATE: 2.1
+  response: 7E80562F45E002A
+- expected_values:
+    EXPEDITION_ENG_FUEL_RATE: 2.45
+  response: 7E80562F45E0031
+- expected_values:
+    EXPEDITION_ENG_FUEL_RATE: 7.75
+  response: 7E80562F45E009B
+- expected_values:
+    EXPEDITION_ENG_FUEL_RATE: 9.3
+  response: 7E80562F45E00BA
+- expected_values:
+    EXPEDITION_ENG_FUEL_RATE: 10.4
+  response: 7E80562F45E00D0
